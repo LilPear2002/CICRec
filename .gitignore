@@ -23,7 +23,6 @@ MANIFEST
 
 # PyTorch
 *.pth
-*.pt
 
 # Logs
 log/
@@ -49,3 +48,9 @@ Thumbs.db
 # Paper figures and scripts
 paper_figures/
 scripts/
+
+# Dataset extras (only keep train.tsv, test.tsv, *.pt)
+datasets/**/*.json
+datasets/**/*.txt
+datasets/**/*.md
+datasets/**/.gitkeep

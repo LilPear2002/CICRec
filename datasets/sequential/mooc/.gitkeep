@@ -1,0 +1,4 @@
+# Place your MOOC dataset files here:
+# - train.tsv
+# - test.tsv
+# - course_easyrec_embeddings.pt (optional)

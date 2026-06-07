@@ -1,0 +1,45 @@
+model:
+  name: cicrec
+  type: sequential
+
+  # Transformer backbone parameters
+  embedding_size: 64
+  max_seq_len: 50
+  n_layers: 2
+  n_heads: 2
+  dropout_rate: 0.1
+  inner_size: 256
+
+  # Semantic neighbor parameters (ColaKG style)
+  semantic_k: 10
+  semantic_hid: 32
+  dropout_neighbor: 0.1
+
+  # Contrastive learning parameters
+  cl_weight: 0.1
+  tau: 1.0
+
+train:
+  epoch: 300
+  batch_size: 512
+  save_model: false
+  log_loss: false
+  test_step: 1
+  patience: 10
+  reproducible: true
+  seed: 2026
+
+test:
+  metrics: [hr, ndcg, mrr]
+  k: [5, 10, 20]
+  batch_size: 512
+
+data:
+  type: sequential
+  name: mooc
+  seq_aug: true
+
+optimizer:
+  name: adam
+  lr: 1.0e-3
+  weight_decay: 0

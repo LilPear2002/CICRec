@@ -1,0 +1,768 @@
+[PADDING]
+Course: "History of Chinese Architecture (Part 1)", Type: "Art & Design, History", Introduction: This course explores the evolution and characteristics of ancient Chinese architecture.
+Course: "History of Foreign Arts and Crafts", Type: "Art & Design", Introduction: Explores the development of decorative and applied arts across different cultures and historical periods.
+Course: "Introduction to Psychology", Type: "Social Sciences & Law", Introduction: A foundational course exploring basic psychological concepts, theories, and research methods.
+Course: "Principles of Economics", Type: "Economics & Management · Accounting", Introduction: An introductory course covering fundamental economic concepts, theories, and their applications.
+Course: "Corporate Finance", Type: "Economics & Management · Accounting", Introduction: This course covers financial decision-making, valuation, and capital management within corporations.
+Course: "Entrepreneurship 102: What Can You Do for Your Customers?", Type: "Entrepreneurship, Business & Accounting", Introduction: Focuses on identifying customer needs and developing value propositions for startups.
+Course: "Teaching and Learning in the e-Age – Blended Learning Triggered by MOOCs", Type: "Education", Introduction: This course explores how MOOCs inspire blended learning methods in modern education.
+Course: "Introduction to the Spirit of the 19th National Congress of the Communist Party of China", Type: "Social Sciences · Law", Introduction: An overview of the key policies and theoretical developments from the 19th Party Congress.
+Course: "E-era Master Teachers: Cultivation Methods for MOOC Instructors", Type: "Education", Introduction: A course on developing skills and strategies for effective teaching in massive open online courses.
+Course: "University Physics: Modern Physics", Type: "Physics", Introduction: Covers fundamental concepts of 20th-century physics, including relativity and quantum mechanics.
+Course: "Introduction to Computer Science and Python Programming", Type: "Computer Science", Introduction: A foundational course covering basic computer science concepts and Python programming.
+Course: "Automatic Control Theory", Type: "Engineering", Introduction: Covers fundamental principles and methods for analyzing and designing automatic control systems.
+Course: "University Chinese (Part 2)", Type: "Literature", Introduction: Advanced study of classical and modern Chinese literary works and writing skills.
+Course: "Computational Geometry", Type: "Computer Science", Introduction: A course focusing on algorithms for geometric problems.
+Course: "C++ Programming Language Fundamentals", Type: "Computer Science", Introduction: This course covers basic C++ syntax, programming concepts, and fundamental application development.
+Course: "Life English Listening and Speaking", Type: "Foreign Language", Introduction: A practical course focusing on daily conversational English and listening skills.
+Course: "Japanese Language and Japanese Culture", Type: "Foreign Language", Introduction: This course introduces the Japanese language and explores related cultural aspects.
+Course: "Data Structures (Part 1)", Type: "Computer Science", Introduction: Covers fundamental data structures and their implementations.
+Course: "Operating Systems", Type: "Computer Science", Introduction: A core course covering fundamental concepts of OS design, resource management, and system software.
+Course: "Data Structures (Part 2)", Type: "Computer Science", Introduction: Advanced data structures and algorithms, focusing on implementation and application.
+Course: "Introduction to Logic", Type: "Mathematics", Introduction: A foundational course covering basic principles of reasoning and argument structure.
+Course: "Linear Algebra", Type: "Mathematics", Introduction: A foundational math course covering vectors, matrices, and linear transformations.
+Course: "Fundamentals of Programming", Type: "Computer Science", Introduction: An introductory course covering basic programming concepts and logic.
+Course: "Assembly Language Programming", Type: "Computer Science", Introduction: Covers low-level programming using assembly language for direct hardware control and optimization.
+Course: "Distributed Storage and Resource Management", Type: "Computer Science", Introduction: This course covers the principles and technologies for managing data and computing resources across distributed systems.
+Course: "Fundamentals of Big Data Systems", Type: "Computer Science", Introduction: This course covers the core principles and technologies for processing and analyzing large-scale datasets.
+Course: "Network Technology and Application", Type: "Computer", Introduction: Covers fundamental network principles, protocols, and practical applications.
+Course: "Computer Science 101", Type: "Computer Science", Introduction: An introductory course covering fundamental computing concepts, programming basics, and algorithmic thinking.
+Course: "Micro/Nano Fabrication Technology", Type: "Electronic Engineering", Introduction: This course covers fundamental processes and applications for fabricating micro and nano-scale electronic devices.
+Course: "Fundamentals of Digital Electronic Technology", Type: "Electronic Engineering", Introduction: Covers basic principles and applications of digital circuits and systems.
+Course: "Advanced C++ Programming", Type: "Computer Science", Introduction: This course covers advanced C++ concepts like templates, STL, and object-oriented design.
+Course: "The World of Wine: From Grape to Fine Wine", Type: "Medicine & Health - Other", Introduction: An introductory course exploring the journey from grape cultivation to wine production.
+Course: "Quantum Mechanics (Part I)", Type: "Physics", Introduction: An introductory course covering fundamental principles of quantum theory.
+Course: "Overview of Financial System (Micro MOOC)", Type: "Economics & Management · Accounting", Introduction: A brief introduction to the structure and functions of financial systems.
+Course: "Linear System Theory", Type: "Electronic Engineering", Introduction: This course covers the analysis and design of linear systems.
+Course: "Wavelets and Science (Self-paced Mode)", Type: "Mathematics", Introduction: An introduction to wavelet theory and its applications in scientific data analysis.
+Course: "Introduction to Electronic Information Science and Technology (1)", Type: "Electronics, Physics", Introduction: An introductory course covering basic concepts in electronics and physics.
+Course: "Statistical Signal Processing", Type: "Engineering", Introduction: This course covers signal analysis and processing techniques using statistical methods.
+Course: "MEMS and Microsystems", Type: "Electronics", Introduction: Covers the design, fabrication, and applications of microelectromechanical systems and integrated microsystems.
+Course: "Bizarre Bionics", Type: "Life Sciences", Introduction: Explores how nature inspires innovative engineering and technology solutions.
+Course: "Innovative Materials Science", Type: "Electronic Engineering", Introduction: This course explores the development and application of advanced materials in electronic engineering.
+Course: "Data Structures - Algorithm Fundamentals (Micro-MOOC)", Type: "Computer Science", Introduction: Covers fundamental data structures and basic algorithms.
+Course: "Introduction to Computational Thinking and Data Science", Type: "Computer Science", Introduction: Introduces core concepts of computational thinking and fundamental data science methods.
+Course: "Theoretical Mechanics", Type: "Engineering Physics", Introduction: A foundational course covering the principles of mechanics, including kinematics and dynamics of particles and rigid bodies.
+Course: "Economics", Type: "Economics & Management · Accounting", Introduction: Introduces fundamental economic principles, market mechanisms, and their applications.
+Course: "2014 Tsinghua University Graduate Thesis Defense (II)", Type: "Other Education", Introduction: A video recording of graduate thesis defense sessions at Tsinghua University.
+Course: "Software Engineering", Type: "Computer Science", Introduction: A course covering the systematic development and maintenance of software.
+Course: "C++ Programming Language", Type: "Computer Science", Introduction: "Learn fundamental C++ syntax, object-oriented programming, and algorithm implementation."
+Course: "Finite Element Analysis and Applications", Type: "Engineering", Introduction: A course on using numerical methods to solve engineering problems.
+Course: "Big Data Science and Application Series Lectures", Type: "Computer Science", Introduction: A lecture series exploring core concepts and practical applications of big data technologies.
+Course: "The Book of Changes, The Rites of Zhou, and the Forbidden City in Beijing (Micro-MOOC)", Type: "Literature, History", Introduction: Explores the cultural connections between ancient Chinese classics and Beijing's architectural heritage.
+Course: "Stream Computing, In-Memory Computing, and Distributed Machine Learning Platforms (Micro-Course)", Type: "Computer Science", Introduction: This course covers key technologies for processing large-scale data in real-time and building efficient machine learning systems.
+Course: "Advanced Big Data Systems", Type: "Computer Science", Introduction: This course covers the design and implementation of large-scale data processing frameworks and systems.
+Course: "Data Mining: Theory and Algorithms", Type: "Computer Science", Introduction: This course covers fundamental data mining concepts, key algorithms, and practical applications for extracting knowledge from data.
+Course: "Petri Nets: Models, Theory and Applications", Type: "Computer Science", Introduction: This course covers the fundamentals of Petri nets, including modeling, theoretical analysis, and practical applications in system design.
+Course: "Web Development Technology", Type: "Computer Science", Introduction: Covers fundamental techniques for building and designing websites and web applications.
+Course: "Psychological Positive Energy ACE (Micro-MOOC)", Type: "Education", Introduction: A short course exploring concepts and methods to cultivate psychological resilience and positive thinking.
+Course: "The Development Path of China's Real Estate", Type: "Entrepreneurship, Economics & Management · Accounting", Introduction: This course explores the evolution, policies, and business strategies within China's real estate market.
+Course: "Social Psychology", Type: "Social Sciences & Law", Introduction: This course explores how individuals' thoughts, feelings, and behaviors are influenced by the presence of others.
+Course: "Comprehensive and Strict Governance of the Party and the Scientific Development of Party Building", Type: "Social Sciences & Law", Introduction: Explores theories and practices for advancing Party construction with scientific approaches.
+Course: "Rules Make Perfect", Type: "Social Sciences · Law", Introduction: This course explores how rules and laws shape society and ensure order.
+Course: "Maker Cultivation: Fun Mechanics Experiments and Production", Type: "Engineering Physics", Introduction: Hands-on experiments and projects exploring fundamental mechanics principles.
+Course: "Smart Car Making: Electronic Technology", Type: "Electronics", Introduction: A course on building smart cars, focusing on electronic components and circuit design.
+Course: "Introduction to Materials Science", Type: "Engineering", Introduction: A foundational course covering the properties, structures, and applications of various engineering materials.
+Course: "Analog Electronic Technology Applications", Type: "Electronics & Computer", Introduction: Covers fundamental principles and practical applications of analog circuits in electronic systems.
+Course: "Circuit Principles", Type: "Electronics", Introduction: This course covers the fundamental concepts and analysis methods of electrical circuits.
+Course: "Advanced Database Systems", Type: "Computer Science", Introduction: Covers advanced database concepts, design, and management techniques.
+Course: "The Science of Everyday Thinking", Type: "Social Science & Law", Introduction: Explores how we form beliefs and make decisions in daily life.
+Course: "Journey to the West", Type: "Literature", Introduction: A classic Chinese novel about a monk's pilgrimage to India with three disciples.
+Course: "Operations Research", Type: "Mathematics", Introduction: A mathematical discipline focusing on optimization and decision-making in complex systems.
+Course: "Microsoft AI - Deep Learning Frameworks and Tools", Type: "Computer Science", Introduction: This course introduces deep learning frameworks and tools from Microsoft, covering their applications and usage.
+Course: "Probability Theory and Mathematical Statistics", Type: "Mathematics", Introduction: A mathematical course focusing on probability concepts and statistical methods.
+Course: "Combinatorics", Type: "Mathematics", Introduction: A study of counting, arrangement, and combination of discrete structures.
+Course: "Tsinghua Scenery and Culture", Type: "Education", Introduction: Explores the history, architecture, and cultural heritage of Tsinghua University.
+Course: "Internal Control and Risk Management", Type: "Economics & Management · Accounting", Introduction: This course covers principles and practices for designing and implementing effective internal controls and managing organizational risks.
+Course: "Introduction to Alpine Skiing", Type: "Medicine & Health - Other", Introduction: A beginner's guide to alpine skiing techniques and safety.
+Course: "Monetary Finance", Type: "Economics & Management · Accounting", Introduction: This course covers the principles of money, banking, and financial markets.
+Course: "Introduction to 'The Communist Manifesto'", Type: "Social Sciences & Law", Introduction: A guide to the classic Marxist text, exploring its historical context and core ideas.
+Course: "Elderly-Friendly Living Space and Environmental Design", Type: "Art·Design Architecture Other", Introduction: Focuses on designing accessible and comfortable living environments for the elderly.
+Course: "Residential Real Estate (Micro Course)", Type: "Economics & Management · Accounting", Introduction: A brief course on residential real estate market fundamentals and investment analysis.
+Course: "Advanced Chemical Engineering Thermodynamics (Part 1)", Type: "Engineering Chemistry", Introduction: Covers fundamental thermodynamic principles and their applications in chemical engineering systems.
+Course: "Organic Chemistry", Type: "Chemistry", Introduction: A study of carbon-based compounds, their structures, properties, and reactions.
+Course: "Chemical Unit Processes and Operations", Type: "Chemistry", Introduction: Covers fundamental chemical engineering unit operations and their practical applications.
+Course: "Introduction to Gemstones", Type: "Engineering, Art & Design", Introduction: A course covering the basics of gemstone identification, properties, and applications in art and design.
+Course: "Traditional Chinese Medicine Health Preservation Methodology", Type: "Medicine & Health", Introduction: This course introduces various TCM-based methods for maintaining health and wellness.
+Course: "Photography Composition (Micro-MOOC)", Type: "Education", Introduction: Learn fundamental principles of photographic composition to enhance your visual storytelling skills.
+Course: "Information Literacy - Essential Course for Academic Research", Type: "Other Education", Introduction: A course covering essential skills for effective academic research and information evaluation.
+Course: "Teaching & Learning Micro-Dictionary", Type: "Education", Introduction: A concise guide exploring key concepts and methods in teaching and learning.
+Course: "Human Movement and Injury: Human Motor Function (Micro-MOOC)", Type: "Medicine & Health", Introduction: This course explores human motor function and common related injuries.
+Course: "The Theory of Achieving Complete National Reunification (Micro MOOC)", Type: "Social Science · Law, Philosophy", Introduction: Explores the theoretical framework for national reunification.
+Course: "Learning How to Learn: The Art of Learning", Type: "Education", Introduction: A course on effective learning strategies and techniques to enhance study skills.
+Course: "Computer Operating Systems", Type: "Computer Science", Introduction: Covers OS principles, process management, memory, and file systems.
+Course: "C++ Programming Based on Linux", Type: "Computer Science", Introduction: This course teaches C++ programming and Linux system operations for software development.
+Course: "Introduction to Missile Overall Design", Type: "Engineering", Introduction: Covers fundamental principles and methodologies for designing missile systems.
+Course: "Financial Derivatives", Type: "Economics & Management · Accounting", Introduction: Covers the fundamentals, pricing, and risk management of financial derivatives.
+Course: "Investment Science", Type: "Economics & Management · Accounting", Introduction: This course covers fundamental principles and strategies for financial investment and portfolio management.
+Course: "University Chinese (Part I)", Type: "Literature", Introduction: An introductory course covering classical and modern Chinese literary texts, focusing on reading comprehension and cultural appreciation.
+Course: "Green Building and Sustainable Development", Type: "Social Science/Law, Environment/Earth", Introduction: Explores eco-friendly construction principles and practices for a sustainable future.
+Course: "Classics and Reflections: Face-to-Face with Tsinghua's Humanities Masters", Type: "Social Sciences & Law", Introduction: A series of dialogues exploring profound ideas from humanities classics and contemporary thought.
+Course: "Introduction to Qing Dynasty Architecture (Micro MOOC)", Type: "History, Architecture", Introduction: A brief overview of architectural styles and features from the Qing Dynasty period.
+Course: "Financial Management", Type: "Entrepreneurship, Business & Accounting", Introduction: Covers core financial principles for business planning and decision-making.
+Course: "Practical Comprehensive English for Higher Vocational Education", Type: "Foreign Language", Introduction: A course focusing on practical English skills for vocational contexts.
+Course: "LabVIEW Fundamentals Course", Type: "Electronics", Introduction: This course covers the basics of LabVIEW for data acquisition and instrument control.
+Course: "Fundamentals of Testing and Detection Technology", Type: "Engineering", Introduction: Covers basic principles and methods for testing and detecting in engineering applications.
+Course: "Fundamentals of Control Engineering", Type: "Engineering", Introduction: Covers basic principles and applications of control systems.
+Course: "Digital Integrated Circuit Analysis and Design", Type: "Electronic Engineering", Introduction: Covers the fundamentals of designing and analyzing digital integrated circuits.
+Course: "Exploring the Origins of Western Philosophical Spirit", Type: "Philosophy", Introduction: This course traces the fundamental ideas and thinkers that shaped Western philosophy.
+Course: "Automatic Control Components", Type: "Engineering", Introduction: Covers fundamental principles and applications of components in control systems.
+Course: "Scientific Computing and MATLAB Language", Type: "Computer", Introduction: This course covers scientific computing methods and programming with MATLAB.
+Course: "Educational Sociology", Type: "Social Sciences · Law & Philosophy", Introduction: Explores the relationship between education and society, including social structures, culture, and policy.
+Course: "Introduction to Modern Biology", Type: "Life Sciences", Introduction: An overview of fundamental concepts and recent advances in biology.
+Course: "Teaching Chinese as a Foreign Language", Type: "Foreign Language Education", Introduction: Focuses on methods for teaching Chinese to non-native speakers.
+Course: "Electrical Engineering Technology", Type: "Engineering", Introduction: Covers fundamental principles and applications of electrical circuits, devices, and systems.
+Course: "Digital Signal Analysis Theory and Practice", Type: "Engineering Computer", Introduction: Covers the fundamentals and practical applications of digital signal processing.
+Course: "Calculus B(1)", Type: "Mathematics", Introduction: Covers fundamental concepts of calculus, including limits, derivatives, and integrals.
+Course: "Engineering Drawing", Type: "Electronic Engineering", Introduction: Covers technical drawing principles and standards for electronic design and manufacturing.
+Course: "Principles of Communications", Type: "Electronic Engineering", Introduction: Covers fundamental theories and techniques for signal transmission and processing in communication systems.
+Course: "Cartoon Explanation of Digital Electronics Technology", Type: "Electronic Engineering", Introduction: A beginner-friendly course using cartoons to explain fundamental digital electronics concepts and circuits.
+Course: "Digital Electronic Technology", Type: "Mathematics", Introduction: Covers logic gates, Boolean algebra, and digital circuit design fundamentals.
+Course: "Singing Enlightenment and Performance: Teach You to Become a Singing Master", Type: "Art·Design", Introduction: A beginner-friendly course covering vocal basics and stage performance skills.
+Course: "E-commerce", Type: "Economics & Management / Accounting", Introduction: Covers online business models, digital marketing, and financial management for online enterprises.
+Course: "Data Structures", Type: "Computer Science", Introduction: A course on organizing, managing, and storing data efficiently.
+Course: "Calculus B(2)", Type: "Mathematics", Introduction: Advanced calculus topics including multivariable functions, integration techniques, and series.
+Course: "Linux System Management", Type: "Computer", Introduction: This course covers essential Linux administration tasks, including system configuration, user management, and network setup.
+Course: "VC++ Object-Oriented and Visual Programming (Part 1): Windows Programming Fundamentals", Type: "Computer Science", Introduction: Covers Windows programming basics using VC++ with a focus on object-oriented and visual design principles.
+Course: "Office Software Applications", Type: "Computer", Introduction: Learn essential skills for using Microsoft Office programs like Word, Excel, and PowerPoint.
+Course: "Sword of King Goujian and Metallurgical Technology in the Wu-Yue Region (Micro-MOOC)", Type: History, Introduction: Explores the ancient bronze sword and metallurgical techniques of the Wu-Yue area.
+Course: "VC++ Object-Oriented and Visual Programming (Part 2): MFC Programming Fundamentals", Type: "Computer Science", Introduction: This course covers the basics of MFC programming for developing Windows applications using VC++.
+Course: "JAVA Programming", Type: "Computer Science", Introduction: This course covers fundamental Java syntax, object-oriented programming concepts, and practical application development.
+Course: "Overview of Tsinghua University Departments", Type: "Other Education", Introduction: A brief guide to the academic departments and structure of Tsinghua University.
+Course: "Public Crisis Management", Type: "Public Administration", Introduction: This course covers strategies and methods for managing public emergencies and crises.
+Course: "Introduction to 'Comprehensive Mirror for Aid in Governance'", Type: "Literature, History", Introduction: A guide to this classic Chinese historical text, exploring its narratives and insights.
+Course: "Graduate Academic and Professional Literacy Lecture", Type: "Other", Introduction: A lecture series covering essential academic and professional skills for graduate students.
+Course: "2015 Tsinghua University Graduate Thesis Defense (II)", Type: "Other Education", Introduction: A recorded session of graduate thesis defense presentations.
+Course: "Alpine Skiing", Type: "Other", Introduction: A course teaching techniques for downhill skiing on snow-covered slopes.
+Course: "Microsoft - Computer Vision Paper Sharing Course", Type: "Computer Science", Introduction: This course shares and discusses key research papers in computer vision.
+Course: "2016 Tsinghua University Graduate Thesis Defense (Part 1)", Type: "Other", Introduction: A video recording of a graduate thesis defense session at Tsinghua University.
+Course: "Social Statistical Analysis Based on R Language", Type: "Social Sciences and Law", Introduction: This course teaches social science data analysis using R, covering statistical methods and practical applications.
+Course: "Advanced Introduction to Law", Type: "Social Science · Law", Introduction: An introductory course covering fundamental legal concepts and principles.
+Course: "Object-Oriented Programming (C++)", Type: "Computer Science", Introduction: Teaches C++ programming with a focus on object-oriented principles like classes and inheritance.
+Course: "Optics", Type: "Physics", Introduction: A physics course exploring the properties and behaviors of light.
+Course: "Standards for Students", Type: "History", Introduction: A classic text on traditional Chinese ethics and proper conduct.
+Course: "Youth Makers and Global Elite University Applications", Type: "Entrepreneurship", Introduction: A course guiding young innovators in project development for top university admissions.
+Course: "British and American Music and Culture", Type: "Foreign Language & Social Sciences/Law", Introduction: Explores the relationship between music and society in the UK and US.
+Course: "Marketing in Daily Life", Type: "Economics & Management / Accounting", Introduction: Explores how marketing principles apply to everyday consumer decisions and business strategies.
+Course: "Financial Engineering", Type: "Economics, Management & Accounting", Introduction: A course on applying mathematical and computational methods to solve financial problems.
+Course: "International Trade", Type: "Economics & Management · Accounting", Introduction: This course covers theories, policies, and practices of global trade.
+Course: "Economic Geography and Corporate Rise and Fall", Type: "Economics & Management / Accounting", Introduction: Explores how geographic factors influence business success and failure.
+Course: "Internet Finance", Type: "Economics & Management / Accounting", Introduction: An overview of financial services and products in the digital era.
+Course: "Illustrated Interpersonal Relationship Psychology", Type: "Social Science & Law", Introduction: Explores psychological principles of human interactions through visual explanations.
+Course: "International Famous Wines Knowledge and Tasting", Type: "Art & Design", Introduction: Covers wine varieties, tasting techniques, and cultural background.
+Course: "Scientific Writing", Type: "Foreign Language Education", Introduction: Teaches academic writing skills for scientific communication in English.
+Course: "Digital Photo Post-Production (Micro MOOC)", Type: "Education", Introduction: A short course teaching essential techniques for editing and enhancing digital photographs.
+Course: "Water Treatment Engineering - Biochemical Technology", Type: "Engineering", Introduction: Covers biochemical processes for wastewater purification.
+Course: "Environmental Ecology", Type: "Environment & Earth", Introduction: Studies the interactions between organisms and their physical surroundings.
+Course: "AP Environmental Science Part 1", Type: "Environment & Earth", Introduction: Covers ecosystems, biodiversity, and human impacts on the environment.
+Course: "Electrical and Electronics Engineering (Part 2)", Type: "Electronic Engineering", Introduction: Advanced topics in circuits, signals, and systems.
+Course: "Signal and System Analysis", Type: "Engineering", Introduction: Studies signal processing and system modeling techniques.
+Course: "Microcomputer Principles and Interface Technology", Type: "Computer Science", Introduction: Covers the fundamentals of microcomputer architecture, system design, and peripheral interface techniques.
+Course: "Computer Networks", Type: "Computer Science", Introduction: This course covers the fundamentals of network architecture, protocols, and data communication technologies.
+Course: "Big Data Platform Core Technologies", Type: "Computer Science", Introduction: Covers essential technologies for building and managing large-scale data processing platforms.
+Course: "Ancient Chinese Ritual and Civilization (Part 1)", Type: "History", Introduction: Explores the foundational rituals and ethical systems of early Chinese civilization.
+Course: "Fundamentals of Applied Information Theory", Type: "Computer Science", Introduction: This course covers the basic principles and practical applications of information theory.
+Course: "Life English Reading and Writing", Type: "Foreign Language", Introduction: A practical course focusing on everyday English reading and writing skills.
+Course: "Fundamentals of Engineering Applied Mathematics", Type: "Engineering Mathematics", Introduction: Covers essential mathematical methods for solving engineering problems.
+Course: "Artificial Intelligence", Type: "Computer Science", Introduction: "This course covers AI fundamentals, including machine learning and intelligent systems."
+Course: "University Computer Tutorial", Type: "Computer", Introduction: "A foundational course covering basic computer concepts, software applications, and programming principles."
+Course: "Mathematical Experiment", Type: "Mathematics", Introduction: A hands-on course exploring mathematical concepts through practical experiments and computational tools.
+Course: "Smart Car Making: Embedded Systems", Type: "Electronics", Introduction: Learn to build a smart car using embedded systems, covering hardware and programming.
+Course: "Fundamentals of Computer Programming", Type: "Computer Science", Introduction: Covers basic programming concepts and logic.
+Course: "Advisor Wu's Fire Safety Lecture Hall", Type: "Social Sciences & Law - Other", Introduction: A public safety course teaching essential fire prevention and emergency response knowledge.
+Course: "Air Pollution and Lung Diseases (Micro MOOC)", Type: "Medicine & Health", Introduction: This course explores the impact of air pollution on lung health and related diseases.
+Course: "Japanese - Travel Freely in Japan", Type: "Foreign Language", Introduction: A practical Japanese course focusing on essential travel phrases and cultural tips for navigating Japan.
+Course: "Urban Writing in Classical Literature", Type: "Literature", Introduction: Explores how cities are depicted and imagined in classical literary works.
+Course: "The Wisdom Development History of Ming Dynasty Mind Philosophy: Wang Yangming Leads You to Fight Bandits", Type: Philosophy History, Introduction: Explores the evolution of Mind Philosophy through Wang Yangming's life and teachings.
+Course: "Introduction to Chinese Classics", Type: "Literature", Introduction: An overview of traditional Chinese philosophy, history, and cultural texts.
+Course: "Advanced Mathematics", Type: "Mathematics", Introduction: A foundational course covering calculus, series, and differential equations.
+Course: "Air Pollution Control Engineering", Type: "Engineering", Introduction: Covers technologies and methods for controlling air pollutants.
+Course: "Introduction to American Politics", Type: "Social Science & Law", Introduction: An overview of the U.S. political system, institutions, and key processes.
+Course: "Career Exploration and Choice", Type: "Workplace & Others", Introduction: This course guides students in exploring career paths and making informed career decisions.
+Course: "International Finance", Type: "Economics & Management · Accounting", Introduction: Covers global monetary systems, exchange rates, and international investment.
+Course: "Financial Risk Management", Type: "Economics & Management · Accounting", Introduction: This course covers methods for identifying, measuring, and managing financial risks in institutions.
+Course: "Introduction to Operations (Micro-MOOC)", Type: "Engineering, Management & Accounting", Introduction: A brief overview of operations management principles.
+Course: "Introduction to Project Management (Micro MOOC)", Type: "Engineering, Economics & Management, Accounting", Introduction: This course introduces fundamental project management concepts and methodologies.
+Course: "How to Study in University? (Micro MOOC)", Type: "History", Introduction: Explores historical learning methods and their application to modern university education.
+Course: "What is Economics (Micro MOOC)", Type: "Economics & Management · Accounting", Introduction: A brief introductory course explaining fundamental economic concepts and principles.
+Course: "The Way of Flowers (Micro-MOOC)", Type: "Art & Design", Introduction: A brief course exploring the art and design principles of floral arrangement.
+Course: "Operation Mechanism of Futures Markets (Micro MOOC)", Type: "Economics & Management · Accounting", Introduction: This course explains how futures markets function, covering trading, pricing, and risk management.
+Course: "Appreciation of Li Qingzhao's Ci Poetry (Micro MOOC)", Type: "Literature", Introduction: An online course exploring the lyrical works of the renowned Song Dynasty poetess Li Qingzhao.
+Course: "Floral Arrangement (Micro Course)", Type: "Art & Design", Introduction: A short course teaching the basic techniques and creative design of flower arrangement.
+Course: "Introduction to Sui and Tang Architecture (Micro Course)", Type: "History, Architecture", Introduction: A brief overview of architectural styles and key structures from the Sui and Tang dynasties.
+Course: "Engineering Ethics", Type: "Engineering Philosophy", Introduction: A course exploring ethical principles and responsibilities in engineering practice.
+Course: "Pattern Color Tones (Micro-course)", Type: "Art & Design", Introduction: This course covers the basics of color theory and its application in pattern design.
+Course: "Beauty is Vigorous Vitality (Micro MOOC)", Type: "Art & Design, Philosophy", Introduction: Explores the concept of beauty through the lens of dynamic life force.
+Course: "Water Treatment Engineering - Physical-Chemical Technology", Type: "Engineering", Introduction: Covers physical and chemical methods for water purification and wastewater treatment.
+Course: "2017 Fourth National Virtual Instrument Competition Pre-competition Training", Type: "Education", Introduction: Provides preparation guidance for participants in the national virtual instrument competition.
+Course: "Exploring the Origins of Ancient Greek Views on Love (Micro MOOC)", Type: "Philosophy", Introduction: This course examines the philosophical roots and expressions of love in ancient Greek thought.
+Course: "Optoelectronic Instrument Design", Type: "Physics", Introduction: Covers the principles and design of instruments using light and electronic technologies.
+Course: "Hydraulics", Type: "Engineering", Introduction: This course covers fluid mechanics principles and their applications in engineering systems.
+Course: "Fundamentals of Analog Electronic Technology", Type: "Electronics", Introduction: Covers basic principles and applications of analog circuits.
+Course: "Fundamentals of Circuit Analysis", Type: "Electronics", Introduction: Covers basic circuit components, laws, and analysis techniques.
+Course: "Ideological and Moral Cultivation and Legal Basis", Type: "Social Science · Law", Introduction: This course covers moral education and fundamental legal knowledge.
+Course: "Life, Art, and Fashion: 7,000 Years of Chinese Attire", Type: "Art & Design", Introduction: Explores the evolution of Chinese clothing and its cultural significance.
+Course: "Groundwater Hydrology (Principles and Applications of Hydrology 2)", Type: "Environment & Earth", Introduction: Covers groundwater flow, quality, and resource management.
+Course: "Integrated Sensors", Type: "Engineering Chemistry", Introduction: This course covers the design and application of integrated chemical sensors in engineering systems.
+Course: "Pattern Aesthetics and Creation", Type: "Art & Design", Introduction: This course explores pattern design principles and creative techniques.
+Course: "Modern Life Aesthetics", Type: "Art & Design", Introduction: This course explores the principles of beauty and design in contemporary living.
+Course: "The Long-standing Tradition of Chinese Education (Micro-MOOC)", Type: "History", Introduction: Explores the development and key features of China's educational heritage.
+Course: "University History and Culture", Type: "History", Introduction: Explores the historical development and cultural traditions of universities.
+Course: "Blended Learning", Type: "Social Science · Law", Introduction: Explores the integration of online and in-person education within legal and social science contexts.
+Course: "Business Etiquette", Type: "Economics & Management / Accounting - Other", Introduction: This course covers professional conduct and communication norms in business settings.
+Course: "Crisis Decision-Making and Leadership (Micro-MOOC)", Type: "Public Management, Economics & Management · Accounting", Introduction: This course explores leadership and strategic decision-making in crisis situations.
+Course: "Organizational Behavior - How to Effectively Manage Employee Behavior", Type: "Economics & Management / Accounting", Introduction: This course explores theories and strategies for understanding and managing employee behavior to enhance organizational effectiveness.
+Course: "Financial Analysis Methods", Type: "Economics & Management · Accounting", Introduction: This course teaches core techniques for evaluating financial statements and company performance.
+Course: "Music and Health", Type: "Social Science·Law, Art·Design, Others", Introduction: Explores the impact of music on physical and mental well-being.
+Course: "The Wonders of Teaching", Type: "Education", Introduction: This course explores effective teaching methods and classroom strategies.
+Course: "University Physics 1 (Mechanics, Thermodynamics)", Type: "Physics", Introduction: This course covers fundamental principles of mechanics and thermodynamics.
+Course: "Outline of Modern Chinese History", Type: "Social Science & Law, History", Introduction: A survey of major events and developments in China from the mid-19th century to the present.
+Course: "Introduction to the 14 Land Neighboring Countries of China", Type: "Social Sciences/Law, History, Others", Introduction: Overview of the geography, culture, and relations of China's neighboring countries.
+Course: "Software Design Patterns", Type: "Computer Science", Introduction: Covers common design patterns for creating reusable and maintainable object-oriented software.
+Course: "Software Engineering and Software Automation", Type: "Computer Science", Introduction: Covers principles of software development and automation tools.
+Course: "Entrepreneurship Journey", Type: Entrepreneurship, Introduction: A foundational course covering essential steps and strategies for starting a new business.
+Course: "Mechanics", Type: "Physics", Introduction: A foundational physics course covering motion, forces, and energy.
+Course: "The Journey of Aesthetics", Type: "Philosophy", Introduction: Explores the historical development and philosophical foundations of aesthetic concepts.
+Course: "Linear Algebra - N-Dimensional Vectors (Micro MOOC)", Type: "Mathematics", Introduction: This course covers the fundamentals of vectors in n-dimensional spaces, including operations and applications.
+Course: "Founding a New Enterprise", Type: Entrepreneurship, Introduction: This course covers the essential steps and strategies for starting and establishing a new business venture.
+Course: "Introduction to Medicine", Type: "Medicine & Health", Introduction: This course provides a foundational overview of medical science and health principles.
+Course: "Database Systems (Part 1): Models and Languages (Self-paced)", Type: "Computer Science", Introduction: Covers fundamental database models and query languages.
+Course: "Database Systems (Part 2): Management and Technology (Self-paced Mode)", Type: "Computer Science", Introduction: Covers advanced database management, implementation techniques, and system administration.
+Course: "The Analects: Life Classroom", Type: "Literature, Philosophy, History", Introduction: Explores life wisdom and ethical principles from Confucius's classic text.
+Course: "Engineering Materials", Type: "Engineering", Introduction: Covers the properties, selection, and applications of materials in engineering design.
+Course: "Geography and Language of the UK and US", Type: "Foreign Language", Introduction: This course explores the geography and linguistic features of the United Kingdom and the United States.
+Course: "English Phonetics", Type: "Foreign Language", Introduction: A course focusing on English pronunciation, intonation, and phonetic rules.
+Course: "Basic Piano Playing", Type: "Art & Design", Introduction: Learn fundamental piano techniques and music theory for beginners.
+Course: "Spanish for Beginners", Type: "Foreign Language", Introduction: A foundational course covering basic vocabulary, grammar, and conversational skills.
+Course: "English Grammar and Writing Style", Type: "Foreign Language", Introduction: A course covering essential grammar rules and principles for effective writing.
+Course: "English: Talking about China", Type: "Foreign Language", Introduction: This course helps learners discuss Chinese culture and society in English.
+Course: "Elementary Spoken Chinese", Type: "Literature", Introduction: This course focuses on basic daily conversation and pronunciation practice.
+Course: "Advanced Living English", Type: "Foreign Language", Introduction: This course focuses on practical English skills for daily life and social situations.
+Course: "Thematic English", Type: "Foreign Language", Introduction: Focuses on practical vocabulary and expressions for specific topics and daily communication.
+Course: "Principles of Accounting", Type: "Economics & Management · Accounting", Introduction: Covers fundamental accounting concepts, principles, and the accounting cycle.
+Course: "Principles of Communication", Type: "Social Science & Law, Literature", Introduction: This course introduces fundamental theories and concepts of communication studies.
+Course: "Coming-of-Age Ceremony (Micro-MOOC)", Type: "Literature & History", Introduction: Explores cultural traditions and historical significance of coming-of-age rituals.
+Course: "Mechanical Design", Type: "Engineering", Introduction: This course covers the fundamentals of designing mechanical systems and components.
+Course: "The Wisdom of The Analects", Type: "Literature, Philosophy", Introduction: Explores the philosophical insights and ethical teachings from Confucius's classic text.
+Course: "Quantum Mechanics (Part 2)", Type: "Physics", Introduction: Advanced quantum theory covering topics like perturbation theory and scattering.
+Course: "Nuclear Radiation Physics and Detection", Type: "Engineering Physics", Introduction: Covers principles of nuclear radiation and detection methods.
+Course: "Criminal Trial Psychology", Type: "Social Science · Law", Introduction: Explores psychological principles in criminal trials, including witness testimony and juror decision-making.
+Course: "Medicine in the Digital Age", Type: "Medicine & Health", Introduction: Explores the integration of digital technologies in healthcare, covering topics like telemedicine and data analysis.
+Course: "Crisis Negotiation (Micro MOOC)", Type: "Public Management, Economics & Management · Accounting", Introduction: This course covers negotiation strategies and communication techniques for managing public crises.
+Course: "Structural Mechanics", Type: "Engineering", Introduction: A fundamental engineering course covering the analysis of forces and deformations in structures.
+Course: "Two-dimensional Expression of Automotive Styling Design", Type: "Engineering, Art & Design", Introduction: This course covers sketching and rendering techniques for automotive design concepts.
+Course: "History of Chinese Architecture (Part 2)", Type: "Art & Design History", Introduction: Explores the development of Chinese architecture from the Tang Dynasty onwards.
+Course: "Internet-Scale Data Analysis Technology", Type: "Engineering, Computer Science", Introduction: This course covers techniques for analyzing massive datasets from the internet.
+Course: "Cybersecurity Overview", Type: "Computer Science", Introduction: An introductory course covering fundamental concepts, threats, and basic defense strategies in cybersecurity.
+Course: "Introduction to Computer Networks", Type: "Computer Science", Introduction: This course covers fundamental concepts of network architecture, protocols, and data communication.
+Course: "How to Write a Good Research Paper", Type: "Social Sciences & Law - Other", Introduction: A guide to crafting clear, structured, and impactful academic papers.
+Course: "Signals and Linear Systems", Type: "Electronic Engineering Computer", Introduction: A foundational course covering signal analysis and linear system theory.
+Course: "Data Structures - Vectors (Micro MOOC)", Type: "Computer Science", Introduction: "This course covers the fundamentals and operations of vector data structures."
+Course: "Tropical Coastal Ecosystems", Type: "Environment & Earth", Introduction: Explores the biodiversity and ecological processes of tropical coastlines.
+Course: "Project Management", Type: "Social Sciences & Law", Introduction: A course on planning, organizing, and managing resources to achieve specific goals.
+Course: "What Does Traditional Chinese Medicine Say (Micro-MOOC)", Type: "Medicine & Health", Introduction: A brief overview of core TCM concepts and their modern applications.
+Course: "PLC Application Technology", Type: "Engineering", Introduction: Covers the principles and practical applications of Programmable Logic Controllers in industrial automation.
+Course: "Marriage, Workplace, Personality", Type: "Philosophy, Other, Education", Introduction: Explores the philosophical aspects of relationships, career, and personal development.
+Course: "Intellectual Property Law", Type: "Economics & Management / Accounting", Introduction: Covers legal frameworks for patents, copyrights, and trademarks.
+Course: "CATTI Translation Qualification Exam Basic Preparation Course for Written Translation", Type: "Foreign Language", Introduction: A foundational course covering essential skills and strategies for the CATTI written translation exam.
+Course: "The Rise and Fall of the Tang Dynasty", Type: "Literature, History", Introduction: Explores the Tang Dynasty's cultural and political evolution through literary and historical analysis.
+Course: "Introduction to the War to Resist U.S. Aggression and Aid Korea (Micro MOOC)", Type: Other, Introduction: A brief overview of the historical background, key events, and significance of the conflict.
+Course: "Football Tactics (Micro MOOC)", Type: "Education", Introduction: A concise online course covering fundamental football strategies and team formations.
+Course: "Fundamentals of C Programming", Type: "Computer Science", Introduction: This course covers basic C programming concepts, syntax, and practical coding skills.
+Course: "The Study of Mind and the Way of the Great Learning (Micro-MOOC)", Type: "Philosophy", Introduction: Explores Confucian philosophy on self-cultivation and moral development.
+Course: "The Song of Everlasting Sorrow (Micro-MOOC)", Type: "History", Introduction: A brief exploration of the famous Tang dynasty poem and its historical context.
+Course: "Striving for the Ultimate Good (Micro MOOC)", Type: "Philosophy", Introduction: Explores the philosophical pursuit of moral perfection and virtue.
+Course: "Floral Materials and Flower Arrangement Color Matching (Micro Course)", Type: "Art & Design", Introduction: This course covers floral selection and color coordination techniques for creating beautiful arrangements.
+Course: "Introduction to Project Management", Type: "Business Management & Accounting", Introduction: This course covers fundamental project management principles and practices.
+Course: "Singing Master Practice Method (Micro MOOC)", Type: "Art & Design", Introduction: A practical guide to improve singing skills through effective exercises.
+Course: "Celebrities' Music Prescriptions (Micro MOOC)", Type: "Art & Design, Medicine & Health", Introduction: Explores how music influences well-being, merging artistic appreciation with health insights.
+Course: "Networks, Crowds, and Markets", Type: "Computer Science", Introduction: Explores how networks, social interactions, and economic principles shape our digital world.
+Course: "Residential Refined Design", Type: "Social Science & Law, Art & Design, Architecture", Introduction: Focuses on detailed, human-centric design principles for residential spaces.
+Course: "Microsoft Research Asia Big Data Lecture Series", Type: "Computer Science", Introduction: A series of lectures exploring big data technologies and applications.
+Course: "AWS Cloud Fundamentals and Products (Advanced Course)", Type: "Computer Science", Introduction: "Advanced training on AWS cloud infrastructure and core services."
+Course: "Multi-ethnic Architecture of China (Micro MOOC)", Type: "History, Architecture", Introduction: Explores the diverse architectural styles and cultural heritage across China's ethnic groups.
+Course: "Photography Exposure (Micro Course)", Type: "Education", Introduction: A brief guide to mastering camera exposure techniques.
+Course: "Management Accounting", Type: "Economics & Management · Accounting", Introduction: This course covers cost analysis, budgeting, and performance evaluation for internal decision-making.
+Course: "Export Business Operations", Type: "Economics & Management · Accounting", Introduction: A practical course covering key procedures and documentation in international trade.
+Course: "Japanese Elementary", Type: "Foreign Language", Introduction: A foundational course covering basic grammar, vocabulary, and essential communication skills.
+Course: "Principles and Methods of Landscape Plant Design", Type: "Architecture", Introduction: This course covers the fundamental theories and practical techniques for designing plant landscapes in architectural environments.
+Course: "Operations Management", Type: "Engineering, Economics & Management · Accounting", Introduction: Covers planning, organizing, and controlling production processes and business operations.
+Course: "University Chemistry I", Type: "Chemistry", Introduction: An introductory course covering fundamental chemical principles, atomic structure, and basic reactions.
+Course: "Introduction to Computer Networks (Micro-MOOC)", Type: "Computer Science", Introduction: A brief overview of fundamental computer network concepts and principles.
+Course: "Automotive Engine Principles", Type: "Engineering", Introduction: Covers the working principles, performance, and design fundamentals of internal combustion engines.
+Course: "Circuit and Electrical Engineering Experiment", Type: "Electronics", Introduction: A practical course covering basic circuit principles and electrical engineering experiments.
+Course: "Environmental Engineering CAD", Type: "Engineering", Introduction: This course covers CAD software applications for designing environmental engineering systems and infrastructure.
+Course: "Cross-Border E-Commerce Practice", Type: "Entrepreneurship, Management & Accounting, Workplace", Introduction: Covers practical skills for operating in international e-commerce markets.
+Course: "Chinese Tea Ceremony", Type: "Social Science & Law", Introduction: An exploration of the cultural practices, history, and social significance of traditional Chinese tea rituals.
+Course: "Heating, Ventilation, and Air Conditioning", Type: "Engineering", Introduction: Covers the design and operation of building climate control systems.
+Course: "20th Century Western Music", Type: "Art & Design", Introduction: Explores major styles and composers of Western music from the 20th century.
+Course: "Cities and Architecture in the Yuan and Ming Dynasties (Micro-MOOC)", Type: "History, Architecture", Introduction: This course explores the urban planning and architectural styles of Chinese cities during the Yuan and Ming dynasties.
+Course: "Fundamentals of Automotive Crash Safety", Type: "Engineering", Introduction: Covers principles of vehicle crashworthiness, occupant protection, and safety system design.
+Course: "Automobile Theory", Type: "Engineering", Introduction: Covers fundamental principles of vehicle dynamics, performance, and design.
+Course: "AWS University AWSome Day (Certification Course)", Type: "Computer", Introduction: An introductory cloud computing course covering AWS fundamentals for certification.
+Course: "MOOC Inquiry", Type: "Education", Introduction: Explores the principles and practices of Massive Open Online Courses.
+Course: "Approaching the Winter Olympics", Type: "Other", Introduction: An introductory course exploring the history, sports, and cultural significance of the Winter Olympic Games.
+Course: "Traditional Chinese Medicine and Diagnosis - Be Your Own Doctor", Type: "Medicine & Health", Introduction: Learn basic TCM theories and self-diagnosis methods for health maintenance.
+Course: "Curling", Type: "Other", Introduction: A winter sport where players slide stones on ice towards a target area.
+Course: "Fashion Makeup and Styling", Type: "Art & Design", Introduction: This course teaches makeup techniques and creative styling for fashion contexts.
+Course: "Self-Shaping: Five Elements of Success", Type: "Workplace & Others", Introduction: A course on developing key personal and professional traits for career achievement.
+Course: "Introduction to Chinese Philosophical Classics", Type: "Literature & Philosophy", Introduction: Explores foundational texts and key concepts in traditional Chinese philosophy.
+Course: "Learn How to Choose Clothes with Me", Type: "Art·Design", Introduction: A guide to selecting clothing based on personal style, body type, and occasion.
+Course: "Landscape Architecture Planning and Design", Type: "Other", Introduction: Covers principles and methods for planning and designing outdoor spaces.
+Course: "Immortal Art: Approaching Masters and Classics", Type: "Art & Design History", Introduction: Explores iconic artists and masterpieces across art history.
+Course: "Accounting Information System", Type: "Economics & Management · Accounting", Introduction: This course covers the design, use, and control of accounting information systems.
+Course: "Electrical Control System Installation and Debugging", Type: "Engineering", Introduction: Covers the assembly, wiring, and testing of industrial electrical control systems.
+Course: "Solar Energy", Type: "Engineering Physics", Introduction: This course covers the principles and applications of solar energy conversion technologies.
+Course: "University Physics Electromagnetism", Type: "Physics", Introduction: "Covers fundamental electromagnetic principles, including electric fields, magnetism, and Maxwell's equations."
+Course: "C Jun Takes You to Play Programming", Type: "Computer", Introduction: A beginner-friendly programming course teaching basic coding concepts and practical skills.
+Course: "Organic Structural Spectroscopic Analysis", Type: "Chemistry", Introduction: This course covers the principles and applications of spectroscopic methods for determining organic molecular structures.
+Course: "Analytical Chemistry", Type: "Chemistry", Introduction: This course covers the principles and techniques for determining the composition of matter.
+Course: "Production Planning and Control", Type: "Engineering", Introduction: This course covers methods for scheduling and managing manufacturing operations efficiently.
+Course: "Introduction to Financial Engineering (Micro MOOC)", Type: "Economics, Management & Accounting", Introduction: An overview of financial engineering concepts and applications.
+Course: "Systematic Product Design and Development", Type: "Art & Design", Introduction: This course covers the structured process of designing and developing products from concept to completion.
+Course: "Fundamentals of Optical Engineering", Type: "Engineering", Introduction: Covers basic principles and applications of optical systems in engineering.
+Course: "Art Psychology", Type: "Art & Design", Introduction: Explores the psychological principles and processes behind artistic creation and perception.
+Course: "Social Innovation and Entrepreneurship", Type: "Entrepreneurship", Introduction: This course explores how to create sustainable social impact through innovative business models and entrepreneurial approaches.
+Course: "News Photography", Type: "Education", Introduction: This course covers the principles and techniques of capturing images for journalistic storytelling.
+Course: "China's Perspective on Addressing Climate Change", Type: "Environment & Earth", Introduction: Explores China's strategies and policies in combating global climate change.
+Course: "University Aesthetic Education", Type: "Art & Design", Introduction: This course explores the principles of beauty and art appreciation.
+Course: "Survey of Britain and America", Type: "Literature", Introduction: An overview of British and American culture, history, and society.
+Course: "Information Hiding Technology", Type: "Computer Science", Introduction: This course covers techniques for concealing data within digital media, focusing on steganography and watermarking.
+Course: "Geology and Engineering Geology", Type: "Engineering", Introduction: Covers geological principles and their application to engineering projects.
+Course: "Project Cost Management", Type: "Social Sciences & Law", Introduction: This course covers principles and methods for planning, estimating, budgeting, and controlling costs in projects.
+Course: "Research on Our Army's Self-Defense Combat Cases (Micro MOOC)", Type: Other, Introduction: This course analyzes historical self-defense operations through case studies.
+Course: "Embedded System Design", Type: "Engineering", Introduction: This course covers the principles and methods for designing dedicated computer systems integrated into larger devices.
+Course: "Advanced C Programming", Type: "Computer Science", Introduction: "This course covers advanced C programming concepts, data structures, and algorithm implementation."
+Course: "Dietary Health Preservation (Micro MOOC)", Type: "Medicine & Health", Introduction: This course introduces principles of healthy eating and dietary therapy for wellness.
+Course: "Webpage Creativity and Artistic Design", Type: "Computer Science", Introduction: This course covers creative design principles and artistic techniques for developing engaging and visually appealing webpages.
+Course: "Chinese Language Education Technology and Practice", Type: "Social Science·Law Education", Introduction: This course explores the application of technology in teaching Chinese language and related educational practices.
+Course: "General Academic English (Preparatory Course)", Type: "Foreign Language", Introduction: This course provides foundational academic English skills for university-level studies.
+Course: "Betrothal Gifts (Micro MOOC)", Type: "Literature, History", Introduction: Explores the historical and literary significance of betrothal gifts in traditional culture.
+Course: "IC Design and Methodology", Type: "Electronic Engineering", Introduction: Covers the principles and techniques for designing integrated circuits.
+Course: "2017 Tsinghua University Graduate Thesis Defense (II)", Type: "Education", Introduction: A video recording of graduate thesis defense sessions at Tsinghua University.
+Course: "Introduction to Computational Thinking", Type: "Computer Science", Introduction: This course introduces fundamental concepts of computational thinking and problem-solving methods.
+Course: "Appreciation of Xin Qiji's Ci Poetry (Micro MOOC)", Type: "Education", Introduction: This course explores the lyrical works of the famous poet Xin Qiji.
+Course: "University Physics 2 (Electromagnetism, Optics, and Quantum Physics)", Type: "Physics", Introduction: Covers fundamental principles of electromagnetism, optics, and introductory quantum physics.
+Course: "Cultural Psychology (Micro MOOC)", Type: "Social Sciences & Law", Introduction: Explores how culture shapes human thought, emotion, and behavior.
+Course: "Inorganic and Analytical Chemistry", Type: "Chemistry", Introduction: Covers fundamental principles of inorganic chemistry and analytical techniques.
+Course: "What is the Most Authentic Confucian Wedding (Micro-MOOC)", Type: "History", Introduction: Explores traditional Confucian wedding rituals and their cultural significance.
+Course: "Rules of Football", Type: "Educational", Introduction: This course explains the fundamental rules and gameplay of football.
+Course: "Essentials of Crisis Management (Micro-MOOC)", Type: "Public Management, Economics & Management · Accounting", Introduction: Learn key principles and strategies for effective crisis response and management.
+Course: "Crisis Communication and New Media (Micro-MOOC)", Type: "Public Management, Economics & Management · Accounting", Introduction: A course on managing communication during crises using new media platforms.
+Course: "Ming and Qing Classical Gardens (Micro-MOOC)", Type: "History, Architecture", Introduction: This course explores the design, history, and cultural significance of classical gardens from the Ming and Qing dynasties.
+Course: "Marriage and Family in Traditional Society", Type: "Social Science · Law", Introduction: Explores marriage and family structures, roles, and legal frameworks within historical societies.
+Course: "Exercise and Health", Type: "Medicine & Health", Introduction: A course exploring the scientific link between physical activity and overall well-being.
+Course: "Situation and Policy", Type: "Social Sciences · Law, Philosophy, Others", Introduction: A course analyzing current domestic and international affairs and related policies.
+Course: "Sports and Anatomy", Type: "Other", Introduction: This course explores the relationship between physical activity and human anatomical structure.
+Course: "Football Referee Law", Type: "Art·Design", Introduction: Covers rules, officiating techniques, and decision-making in football.
+Course: "Modern Chinese Verbal Communication", Type: "Social Sciences & Law", Introduction: This course covers practical communication skills and strategies in modern Chinese.
+Course: "Basic Principles of Marxism", Type: "Philosophy", Introduction: Explores core Marxist theories, including dialectical materialism and historical materialism.
+Course: "Principles of Environmental Geoscience", Type: "Environment & Earth", Introduction: This course covers the fundamental principles of Earth's systems and their interactions with the environment.
+Course: "Golden Minutes in Emergency (CPR), Disaster Medicine (Micro-MOOC)", Type: "Medicine & Health", Introduction: Covers CPR basics and disaster medical response skills.
+Course: "Introduction to Sexual Science", Type: "Medicine & Health Education", Introduction: This course explores human sexuality, covering biological, psychological, and social aspects of sexual health.
+Course: "Imperial Examination and Tang Poetry", Type: "Literature", Introduction: Explores the relationship between the civil service exam system and Tang poetry's development.
+Course: "Volleyball", Type: "Other", Introduction: A team sport focusing on passing, setting, and spiking a ball over a net.
+Course: "Semiconductor Device Physics", Type: "Electronics", Introduction: This course covers the fundamental physical principles and operational mechanisms of key semiconductor devices.
+Course: "Appreciation of Tang and Song Ci Poetry", Type: "Literature", Introduction: An exploration of classical Chinese lyrical poetry from the Tang and Song dynasties, focusing on its artistic and historical value.
+Course: "Principles of Microeconomics (Prerequisite Course)", Type: "Mathematics", Introduction: Introduces basic microeconomic concepts and mathematical tools for economic analysis.
+Course: "Fundamentals of Fluid Machinery", Type: "Engineering", Introduction: Covers the principles and applications of pumps, turbines, and other fluid machinery.
+Course: "Combustion Theory", Type: "Engineering Physics", Introduction: A course covering the fundamental principles and applications of combustion processes.
+Course: "ARM Microcontroller and Embedded Systems", Type: "Computer", Introduction: Covers ARM architecture, microcontroller programming, and embedded system design principles.
+Course: "Ecology in the Humanities Perspective", Type: "Environment & Earth", Introduction: Explores ecological issues through the lens of humanities, examining the relationship between humans and nature.
+Course: "University Computer - A Computational Thinking Perspective", Type: "Computer Science", Introduction: This course introduces core computer concepts and problem-solving methods from a computational thinking viewpoint.
+Course: "Medical Parasitology", Type: "Medicine & Health", Introduction: This course studies parasitic organisms affecting human health, including their life cycles, pathogenesis, and prevention.
+Course: "Human Factors and Culture in Design", Type: "Engineering, Art & Design", Introduction: Explores how human factors and cultural elements influence design processes and outcomes.
+Course: "Science Communication Open Course", Type: "Social Sciences & Law", Introduction: An introductory course on effectively communicating scientific concepts to the public.
+Course: "Introduction to Biomedical Imaging", Type: "Life Sciences", Introduction: This course introduces fundamental principles and applications of various biomedical imaging techniques.
+Course: "Literary Writing and Memory in Beijing (Micro-MOOC)", Type: "Education", Introduction: Explores Beijing's literary culture and memory through writing.
+Course: "The Meridian Theory in Ancient China (Micro MOOC)", Type: "History, Literature, Medicine & Health", Introduction: Explores the historical development and cultural significance of traditional Chinese meridian theory.
+Course: "Medicinal Cuisine for Health (Micro Course)", Type: "Medicine & Health", Introduction: Learn to prepare healthy dishes using traditional Chinese medicinal ingredients.
+Course: "Appreciation of Li Yu's Poetry from the Southern Tang Dynasty (Micro-MOOC)", Type: "Education", Introduction: A brief course exploring the lyrical poetry of Li Yu, the last ruler of the Southern Tang.
+Course: "The Etiquette of Filial Piety (Micro-Lecture)", Type: "Literature, History", Introduction: Explores traditional Chinese filial piety through literature and historical context.
+Course: "Above is Paradise, Below are Suzhou and Hangzhou (Micro-MOOC)", Type: "Education", Introduction: A brief online course exploring the cultural and scenic beauty of Suzhou and Hangzhou.
+Course: "Family Instructions (Micro-MOOC)", Type: "Literature, History", Introduction: A brief exploration of traditional Chinese family precepts and their historical context.
+Course: "Introduction to the Chechen Wars (Micro MOOC)", Type: "Other", Introduction: A brief overview of the conflicts in Chechnya, exploring their historical context and key events.
+Course: "Introduction to Vietnam's Wars Against France and the United States (Micro MOOC)", Type: "Other", Introduction: A brief overview of Vietnam's resistance against French colonial rule and American intervention.
+Course: "Exercise for Health Preservation (Micro MOOC)", Type: "Medicine & Health", Introduction: A brief course on using physical activity for wellness and preventive health.
+Course: "Middle East Wars (Micro-MOOC)", Type: "Other", Introduction: A brief overview of key conflicts in the Middle East.
+Course: "Introduction to the Iraq War (Micro-MOOC)", Type: "Other", Introduction: A brief overview of the Iraq War's key events and historical context.
+Course: "Introduction to the Gulf War (Micro MOOC)", Type: "Other", Introduction: A brief overview of the Gulf War's key events and historical significance.
+Course: "Introduction to the Afghanistan War (Micro MOOC)", Type: "Other", Introduction: A brief overview of the Afghanistan War's history and key events.
+Course: "Introduction to Curling (Micro-course)", Type: "Medicine & Health - Other", Introduction: A brief guide to the basics of curling.
+Course: "Basic Music Theory (Micro-MOOC)", Type: "Arts & Design", Introduction: An introductory course covering fundamental music theory concepts.
+Course: "Overview of Greek Philosophy (Micro MOOC)", Type: "Philosophy", Introduction: An introductory survey of major Greek philosophers and their core ideas.
+Course: "Understanding Cameras (Micro MOOC)", Type: "Education", Introduction: A brief online course introducing basic camera functions and photography principles.
+Course: "Appreciation of Lu You's Ci Poetry (Micro MOOC)", Type: "Education", Introduction: This course offers a concise analysis of the famous poet Lu You's ci works.
+Course: "Public Administration", Type: "Engineering, Economics & Management, Accounting", Introduction: This course covers the principles and practices of managing public sector organizations and policies.
+Course: "Spacecraft Orbital Mechanics", Type: "Engineering Physics", Introduction: This course covers the fundamental principles governing the motion and control of spacecraft in orbit.
+Course: "Water Analytical Chemistry", Type: "Engineering Chemistry", Introduction: Covers chemical analysis methods for water quality assessment.
+Course: "Football Techniques (Micro MOOC)", Type: "Education", Introduction: This course covers fundamental football skills and tactical knowledge.
+Course: "Natural Disasters", Type: "Environment & Earth", Introduction: This course explores the causes, impacts, and management of various natural hazards.
+Course: "University Physics - Relativity and Quantum Physics", Type: "Physics", Introduction: This course covers the fundamental principles of relativity and quantum mechanics.
+Course: "Modern Management", Type: "Economics & Management / Accounting", Introduction: This course covers fundamental management theories and practical applications in modern organizations.
+Course: "Music and Health (Micro MOOC)", Type: "Arts & Design, Medicine & Health", Introduction: Explores the connection between music and wellness.
+Course: "Chinese and Western Music Therapy and Wellness (Micro-course)", Type: "Art & Design, Medicine & Health", Introduction: Explores music's role in health and therapy from both cultural perspectives.
+Course: "The Chu-Han Contention (Micro-MOOC)", Type: "History", Introduction: "A concise course exploring the historical rivalry between the states of Chu and Han in ancient China."
+Course: "Lü Buwei: The Unusual Commodity (Micro-MOOC)", Type: "History", Introduction: Explores the historical story of Lü Buwei's political and business strategies.
+Course: "The Zhenguan Reign (Micro-MOOC)", Type: "History", Introduction: Explores the prosperous early Tang Dynasty period under Emperor Taizong.
+Course: "Gong Shang Jiao Zhi Yu (Micro MOOC)", Type: "Art & Design", Introduction: A brief course exploring the five notes of ancient Chinese music theory.
+Course: "The Unforgivable Crimes of Emperor Yang of Sui", Type: "History", Introduction: "Explores the controversial reign and notorious deeds of Emperor Yang in the Sui Dynasty."
+Course: "Emperor Wu of Han: The Fusion of Hegemony and Benevolence (Micro-MOOC)", Type: "History", Introduction: Explores Emperor Wu's reign, blending military expansion with Confucian governance.
+Course: "Wang Mang Usurping the Han Dynasty (Micro-MOOC)", Type: "History", Introduction: "This course explores the historical events surrounding Wang Mang's usurpation of the Han Dynasty."
+Course: "Medicinal Chemistry", Type: "Medicine & Health, Chemistry", Introduction: A course on the design, synthesis, and mechanism of pharmaceutical drugs.
+Course: "Software Testing", Type: "Computer Science", Introduction: This course covers fundamental testing methodologies, techniques, and tools for ensuring software quality and reliability.
+Course: "Monetary and Foreign Trade Policy", Type: "Economics & Management · Accounting", Introduction: This course covers monetary theory and international trade policies.
+Course: "Radiative Heat Transfer in Media", Type: "Engineering", Introduction: This course covers the principles of heat transfer via radiation within participating media.
+Course: "Microscopic Chemical World", Type: "Chemistry", Introduction: Explores atomic and molecular structures, chemical bonds, and reactions at the microscopic level.
+Course: "University Physics: Mechanics and Thermodynamics", Type: "Physics", Introduction: Covers fundamental principles of motion, forces, energy, and heat.
+Course: "Central Plains Culture (Martial Arts Chapter)", Type: "Literature", Introduction: Explores the history and cultural significance of martial arts within Central Plains traditions.
+Course: "Precision Guidance Technology", Type: "Engineering", Introduction: Covers principles and applications of precision guidance systems.
+Course: "Hand in Hand to the Flower Garden – Appreciation of Kunqu Opera Classics", Type: "Arts & Design", Introduction: An introductory course exploring the beauty and cultural significance of classic Kunqu Opera performances.
+Course: "The Blossoming of Kunqu Opera Art Appreciation", Type: "Art & Design", Introduction: An introduction to appreciating the beauty and artistry of Kunqu Opera.
+Course: "Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics", Type: "Philosophy, History", Introduction: This course explores the development and core principles of Mao Zedong Thought and the theoretical system of socialism with Chinese characteristics.
+Course: "Western Thought Classics and Modern Society", Type: "Philosophy", Introduction: Explores foundational Western philosophical texts and their relevance to contemporary social issues.
+Course: "Principles and Methods of Chinese Language Teaching", Type: "Social Sciences, Law, Education", Introduction: This course covers the core concepts and practical teaching strategies for effective Chinese language instruction.
+Course: "The Mysteries of Medicine", Type: "Medicine & Health, Life Science", Introduction: Explores fundamental principles of medicine and life science.
+Course: "Modern Logistics and Supply Chain Management", Type: "Engineering", Introduction: Covers logistics systems, supply chain strategies, and operational efficiency.
+Course: "Theory, System, Path: Research on the Theory and Practice of Socialism with Chinese Characteristics", Type: "Philosophy", Introduction: Explores the theoretical foundations, institutional framework, and developmental path of socialism with Chinese characteristics.
+Course: "University Computer Fundamentals", Type: "Computer", Introduction: An introductory course covering essential computer concepts, hardware, software, and basic operations.
+Course: "Cultural Relics and Cultural China", Type: "Literature, History", Introduction: Explores China's history and culture through significant cultural relics.
+Course: "Project Procurement and Contract Management", Type: "Social Science · Law", Introduction: This course covers procurement strategies and legal contract management for projects.
+Course: "University Portuguese", Type: "Foreign Language", Introduction: A foundational course covering basic Portuguese grammar, vocabulary, and communication skills.
+Course: "Database Systems (Part 2): Modeling and Design (Self-Paced Mode)", Type: "Computer Science", Introduction: Covers database modeling techniques and design principles.
+Course: "Engineering Economics", Type: "Engineering", Introduction: A course on economic analysis and decision-making for engineering projects.
+Course: "Microelectronics Technology", Type: "Electronics", Introduction: This course covers the fundamental processes and techniques used in semiconductor device fabrication.
+Course: "International Settlement Operations", Type: "Economics & Management · Accounting", Introduction: A course on the practical procedures and rules for cross-border financial transactions.
+Course: "Foreign Trade Documentation Operation", Type: "Economics & Management · Accounting", Introduction: A course on processing and managing essential documents for international trade.
+Course: "Advanced Reaction Engineering", Type: "Engineering", Introduction: Focuses on complex reaction kinetics and reactor design.
+Course: "Radio and Television Advertising (Theory)", Type: "Art & Design, Other", Introduction: This course covers the fundamental theories and creative strategies for advertising in broadcast media.
+Course: "Circular Economy and Sustainable Development Enterprises", Type: "Engineering, Environment & Earth Sciences, Management & Accounting", Introduction: This course explores how businesses can adopt circular economy principles for sustainable growth.
+Course: "Sports Training Science", Type: "Other", Introduction: This course covers the principles and methods of athletic training.
+Course: "Oral Exploration", Type: "Medicine & Health", Introduction: This course reveals the secrets of oral health and dental care.
+Course: "Food Nutrition and Food Safety", Type: "Social Sciences & Law, Medicine & Health", Introduction: Covers nutritional science and safety standards for food.
+Course: "Career and Entrepreneurial Competence", Type: "Entrepreneurship, Economics & Management, Accounting", Introduction: A course focusing on developing essential skills for professional success and entrepreneurial ventures.
+Course: "Potential Flow Theory of Ship Motion in Waves", Type: "Art & Design", Introduction: This course applies fluid dynamics principles to analyze and design ship movements in waves.
+Course: "Ergonomics", Type: "Engineering, Art & Design", Introduction: A course studying the interaction between humans and systems, focusing on design optimization for safety and efficiency.
+Course: "Wisdom and Enlightenment of the Tao Te Ching", Type: "Social Science, Law, Literature, Philosophy", Introduction: Explores the philosophical insights and practical wisdom of this ancient Chinese classic.
+Course: "Exploring Materials Around Us: Materials and Society", Type: "Social Sciences & Law", Introduction: This course examines the role of materials in daily life and their societal impacts.
+Course: "Cellular Neuroscience", Type: "Life Science", Introduction: Explores the structure and function of neurons and neural circuits.
+Course: "College Student Mental Health", Type: "Social Sciences & Law, Medicine & Health", Introduction: A course focusing on psychological well-being and common mental health issues for university students.
+Course: "Ubiquitous Infectious Diseases", Type: "Medicine & Health", Introduction: This course explores the nature, spread, and prevention of common infectious diseases.
+Course: "Human Anatomy", Type: "Medicine·Health", Introduction: Study of the structure and organization of the human body.
+Course: "Classic Reading and Appreciation", Type: "Social Science/Law & Literature", Introduction: An introductory course exploring and appreciating foundational texts from social sciences, law, and literature.
+Course: "Textile Technology Management", Type: "Other", Introduction: Covers management principles and technical operations in the textile industry.
+Course: "Computational Neuroscience", Type: "Life Sciences", Introduction: This course explores how mathematical models and computational methods are used to understand brain function and neural systems.
+Course: "Thanatology", Type: "Social Science/Law & Philosophy", Introduction: Explores concepts of life, death, and related ethical and philosophical issues.
+Course: "Advanced Fluid Mechanics", Type: "Engineering", Introduction: A course covering fundamental theories and advanced applications of fluid dynamics in engineering contexts.
+Course: "Foreign Trade Order Follow-up Practice", Type: "Economics & Management · Accounting", Introduction: This course covers practical skills for managing and tracking international trade orders.
+Course: "E-Government", Type: "Engineering", Introduction: A course on applying information technology to improve government services and operations.
+Course: "Medical Ethics", Type: "Philosophy, Medicine & Health", Introduction: A course exploring ethical principles and dilemmas in medical practice and research.
+Course: "Fundamentals of Interchangeability and Measurement Technology", Type: "Engineering", Introduction: Covers principles of part interchangeability and precision measurement techniques.
+Course: "Medical Immunology", Type: "Medicine & Health", Introduction: A course covering the principles of the immune system and its role in health and disease.
+Course: "Physics and the Future of Humanity", Type: "Physics", Introduction: Explores how physics shapes future technologies and society.
+Course: "Live Up to Your Youth - Career Planning for College Students", Type: "Entrepreneurship Education", Introduction: This course guides students in exploring career paths and developing essential planning skills.
+Course: "Innovative Land Redevelopment: Land Consolidation (Self-Directed Mode)", Type: "Engineering", Introduction: This course covers strategies for independent land consolidation and redevelopment projects.
+Course: "Design Thinking", Type: "Art & Design", Introduction: A methodology for creative problem-solving and innovation.
+Course: "Parasites and Public Health", Type: "Medicine·Health", Introduction: This course explores the impact of parasites on public health and disease prevention.
+Course: "Road Traffic Environmental Protection", Type: "Social Science & Law", Introduction: This course explores the legal and social science aspects of protecting the environment from road traffic impacts.
+Course: "The Inspiration of Art", Type: "Art & Design", Introduction: Explores the creative process and fundamental concepts in art and design.
+Course: "Football and Science", Type: "Other", Introduction: Explores the scientific principles behind football, including biomechanics, physiology, and tactics.
+Course: "Chinese Petroleum Culture", Type: "Social Science & Law Education", Introduction: Explores the history and societal impact of China's petroleum industry.
+Course: "A Brief History of Technological Innovation", Type: "Engineering History Entrepreneurship", Introduction: Explores key innovations, their historical context, and entrepreneurial impact.
+Course: "Caring for Health, Starting with Teeth", Type: "Medicine & Health", Introduction: This course introduces basic oral health knowledge and daily dental care practices.
+Course: "Building Budgeting and Bill of Quantities", Type: "Engineering", Introduction: Covers cost estimation and quantity listing for construction projects.
+Course: "Chinese Language Fun Teaching Methods", Type: "Education", Introduction: This course introduces engaging and effective techniques for teaching Chinese, making learning enjoyable and interactive.
+Course: "Information Literacy and Lifelong Learning", Type: "Computer Education", Introduction: This course teaches essential skills for finding, evaluating, and using information effectively in the digital age.
+Course: "18 Essential Skills for the Workplace", Type: "Social Science · Law, Workplace, Education", Introduction: This course covers key professional competencies required for career success.
+Course: "Construction Technology", Type: "Engineering", Introduction: Covers fundamental methods and processes in building construction.
+Course: "Principles and Applications of Microcontrollers", Type: "Electronics, Computer", Introduction: Covers microcontroller architecture, programming, and practical applications in embedded systems.
+Course: "Linear Algebra - Matrix (Micro MOOC)", Type: "Mathematics", Introduction: Covers fundamental concepts and operations of matrices.
+Course: "Compilation Technology", Type: "Computer Science", Introduction: This course covers the principles and methods for designing and implementing compilers.
+Course: "Piano Art and Masterpiece Appreciation", Type: "Art & Design", Introduction: An introduction to piano artistry and the appreciation of famous piano compositions.
+Course: "Modern Life Aesthetics - The Way of Flowers, Fragrance, and Tea", Type: "Art & Design", Introduction: Explores the aesthetics of integrating flowers, fragrance, and tea into contemporary living.
+Course: "Enterprise Management in Market Environment", Type: "Economics & Management · Accounting", Introduction: This course covers business strategies and operations within competitive market dynamics.
+Course: "Military Theory", Type: "Social Science & Law", Introduction: An overview of military science, strategy, and related legal frameworks.
+Course: "Indoor Plant Cultivation Technology and Decorative Arrangement", Type: "Art & Design", Introduction: Learn techniques for growing indoor plants and creating decorative arrangements.
+Course: "Advanced Separation Engineering", Type: "Engineering", Introduction: Focuses on principles and applications of advanced separation techniques in chemical engineering.
+Course: "Computer Graphics", Type: "Computer", Introduction: "Learn to create and manipulate digital images using specialized software."
+Course: "Animation Scriptwriting", Type: "Art & Design", Introduction: A course on creating compelling stories and scripts for animation.
+Course: "High Technology and Modern Local Warfare", Type: "Social Science & Law", Introduction: Explores the impact of advanced technology on contemporary regional conflicts.
+Course: "Cultural Differences and Intercultural Communication", Type: "Social Sciences & Law", Introduction: This course explores cultural diversity and effective communication strategies across different cultures.
+Course: "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era", Type: "Social Science · Law", Introduction: A theoretical system guiding China's development and governance in the new era.
+Course: "Exercise Physiology", Type: "Medicine & Health", Introduction: A course exploring how the body responds and adapts to physical activity.
+Course: "Art Appreciation", Type: "Social Science & Law, Art & Design, Other", Introduction: An introductory course exploring the appreciation and analysis of various art forms.
+Course: "Finance in Daily Life", Type: "Economics & Management · Accounting", Introduction: A practical course on managing personal finances and basic accounting principles.
+Course: "AP Biology Preparation Part IV", Type: "Life Science", Introduction: This course covers advanced topics in biology, focusing on key concepts and skills for the AP exam.
+Course: "AP Environmental Science Preparation Part 3", Type: "Environment & Earth", Introduction: This course covers key topics in environmental science, focusing on ecosystems, biodiversity, and human impacts.
+Course: "Mathematical Analysis for Engineering (I)", Type: "Engineering", Introduction: Covers fundamental calculus concepts essential for engineering applications.
+Course: "Electrodynamics (Part 2)", Type: "Physics", Introduction: Advanced study of electromagnetic fields, radiation, and relativistic electrodynamics.
+Course: "Electrodynamics (Part I)", Type: "Physics", Introduction: Covers fundamental principles of electromagnetism, including electrostatics and magnetostatics.
+Course: "Winning the Mobile Internet: Business Model Course for Entrepreneurs", Type: "Entrepreneurship, Economics & Management, Accounting", Introduction: A course teaching entrepreneurs how to build and optimize business models in the mobile internet era.
+Course: "Principles of Automatic Control", Type: "Engineering", Introduction: Covers fundamental theories and methods for analyzing and designing automatic control systems.
+Course: "2017 Tsinghua University Graduate Thesis Defense (I)", Type: "Other Education", Introduction: A recording of graduate thesis defense proceedings at Tsinghua University.
+Course: "Financial Analysis and Decision Making", Type: "Economics & Management · Accounting", Introduction: Teaches financial statement analysis and decision-making skills.
+Course: "Linear Algebra (Prerequisite Course)", Type: "Mathematics", Introduction: "Covers vectors, matrices, and systems of linear equations."
+Course: "Market Types and Enterprise Competition", Type: "Economics & Management / Accounting", Introduction: This course explores market structures and corporate competitive strategies.
+Course: "PPP Theory and Practice", Type: "Public Administration, Engineering, Economics & Management/Accounting", Introduction: This course covers the principles and real-world applications of Public-Private Partnerships.
+Course: "Microsoft AI Overview", Type: "Computer Science", Introduction: A brief introduction to Microsoft's core AI concepts and services.
+Course: "Administrative Professional Competency Enhancement", Type: "Social Sciences · Law", Introduction: Enhances administrative skills and legal knowledge for professional development.
+Course: "Calculus", Type: "Mathematics", Introduction: A foundational math course covering limits, derivatives, integrals, and their applications.
+Course: "Academic English", Type: "Foreign Language", Introduction: Develops English skills for academic reading, writing, and presentations.
+Course: "Management Consulting", Type: "Public Management", Introduction: A course on providing strategic advice and solutions for organizational improvement.
+Course: "Advanced LabVIEW Course", Type: "Electronics", Introduction: This course covers advanced programming techniques and application development using LabVIEW software.
+Course: "Comprehensive Experiment of Time Domain Testing Technology", Type: "Engineering", Introduction: This course provides hands-on experience in time domain testing methods and their practical applications in engineering.
+Course: "Engineering Thermodynamics (Part 2)", Type: "Engineering", Introduction: This course covers advanced thermodynamic principles and their applications in engineering systems.
+Course: "Engineering Thermodynamics (Part I)", Type: "Engineering", Introduction: Covers fundamental principles of thermodynamics, energy conversion, and heat transfer.
+Course: "Building Indoor Thermal Environment Simulation and Application", Type: "Architecture", Introduction: This course covers simulation techniques and practical applications for analyzing and optimizing indoor thermal conditions in buildings.
+Course: "AWS Cloud Computing Training Course - Path to Cloud Solution Architect (Advanced Course)", Type: "Computer", Introduction: Advanced training for designing scalable AWS solutions.
+Course: "Smart Device Application Development (Based on Android Platform)", Type: "Computer Science", Introduction: This course teaches Android app development for smart devices.
+Course: "Electricity & Magnetism", Type: "Electronics", Introduction: Covers fundamental principles of electric and magnetic fields, circuits, and their applications.
+Course: "Dynamics", Type: "Physics", Introduction: A study of motion and the forces that cause it.
+Course: "Sports Psychology", Type: "Medicine & Health", Introduction: Explores psychological factors affecting athletic performance and mental well-being.
+Course: "Web Front-end Engineer", Type: "Computer Science", Introduction: Learn HTML, CSS, and JavaScript to build interactive websites.
+Course: "The Rise and Fall of Key Figures in the Kaiyuan Era (Micro-MOOC)", Type: "History", Introduction: Explores the influential ministers and their political dynamics during the Tang Dynasty's Kaiyuan period.
+Course: "The Guangwu Restoration (Micro-Lecture)", Type: "History", Introduction: Explores the revival of the Han Dynasty under Emperor Guangwu.
+Course: "Fiscal Policy and Tax System Reform", Type: "Economics & Management · Accounting", Introduction: This course explores fiscal policy tools and the principles of tax reform.
+Course: "Introduction to Interface Design", Type: "Art & Design", Introduction: This course covers the fundamentals of creating user-friendly and aesthetically pleasing digital interfaces.
+Course: "University Physics: Vibration, Waves and Optics", Type: "Physics", Introduction: Covers fundamental principles of mechanical vibrations, wave phenomena, and geometric and physical optics.
+Course: "English Writing Guidance - Introduction to Writing", Type: "Foreign Language", Introduction: A beginner's guide to the fundamentals of English writing.
+Course: "Cloud Computing and Software Engineering Part I", Type: "Computer", Introduction: This course covers the fundamentals of cloud computing and its application in modern software engineering.
+Course: "AWS AI Series (Advanced Course)", Type: "Computer Science", Introduction: Advanced AI concepts and applications on AWS cloud platform.
+Course: "Introduction to Linguistics", Type: "Foreign Language", Introduction: A foundational course exploring the scientific study of language, its structure, and use.
+Course: "Nutrition in Daily Life", Type: "Medicine & Health", Introduction: This course explores basic nutrition principles and their practical application for maintaining a healthy lifestyle.
+Course: "University Physics (Advanced Placement) - Mechanics", Type: "Physics", Introduction: This course covers fundamental concepts of mechanics, including motion, forces, and energy.
+Course: "Microsoft AI - Services and APIs", Type: "Computer Science", Introduction: This course introduces Microsoft's AI services and APIs for building intelligent applications.
+Course: "How to Write an 'Ideological Report'", Type: "Education", Introduction: A guide on structuring and writing formal ideological reports.
+Course: "How to Be a Qualified Party Branch Secretary", Type: "Social Sciences & Law", Introduction: This course covers the duties and skills required for effective leadership in a Party branch role.
+Course: "Elementary Financial Accounting", Type: "Economics & Management · Accounting", Introduction: Covers basic accounting principles, financial statements, and bookkeeping practices.
+Course: "Advanced JAVA Programming", Type: "Computer Science", Introduction: Covers advanced object-oriented concepts, data structures, and application development in JAVA.
+Course: "Ancient Chinese Ritual and Civilization (Part 2)", Type: "History", Introduction: Explores the evolution and social impact of rituals in later Chinese dynasties.
+Course: "National Economic Operation and Statistics", Type: "Economics, Management & Accounting", Introduction: This course covers the fundamentals of macroeconomic analysis and statistical methods for understanding national economic performance.
+Course: "Automobile Structure (2)", Type: "Automotive", Introduction: This course covers advanced automotive systems, including powertrain, chassis, and body components.
+Course: "Technology Innovation Management", Type: "Public Administration", Introduction: This course covers strategies and frameworks for managing technological innovation within public and organizational contexts.
+Course: "The Way of Confucian Self-Cultivation", Type: "Philosophy", Introduction: Explores Confucian principles and practices for moral self-improvement and ethical living.
+Course: "Microsoft AI - Data Analysis Platform", Type: "Computer Science", Introduction: This course covers using Microsoft's AI tools for data analysis and platform operations.
+Course: "Communication Psychology", Type: "Social Science & Law, Medicine & Health", Introduction: Explores psychological principles for effective interpersonal communication and mental well-being.
+Course: "AP Biology Preparation Part 1", Type: "Life Science", Introduction: Covers foundational biological concepts and principles essential for the AP exam.
+Course: "College English Writing (Part 1)", Type: "Foreign Language, Social Sciences & Law, Education", Introduction: A foundational course focusing on basic English writing principles and academic composition skills.
+Course: "Traditional Chinese Culture", Type: "Social Science & Law, History", Introduction: Explores the core philosophies, arts, and historical development of China's rich cultural heritage.
+Course: "AWS Cloud Computing - Amazon ML Machine Learning Practice", Type: "Computer Science", Introduction: A practical course on implementing machine learning using Amazon ML within the AWS cloud platform.
+Course: "Quantitative Finance Credit and Risk Control Analysis", Type: "Engineering, Economics & Management · Accounting", Introduction: Covers credit modeling and risk management techniques in quantitative finance.
+Course: "Empress Wu Zetian (Micro MOOC)", Type: "History", Introduction: Explores the life and reign of China's only female emperor.
+Course: "Securities Investment Analysis", Type: "Economics & Management / Accounting", Introduction: This course covers fundamental analysis and valuation methods for securities.
+Course: "Learning to Create Mini Programs", Type: "Other", Introduction: A course on developing small applications for platforms like WeChat.
+Course: "Introduction to Financial Engineering", Type: "Economics & Management / Accounting", Introduction: An introductory course covering the fundamentals of financial engineering and its applications.
+Course: "A Brief History of Chinese Advertising", Type: "History", Introduction: This course explores the evolution of advertising in China, from ancient times to the modern era.
+Course: "University Physics - Mechanics and Thermodynamics", Type: "Physics", Introduction: Covers fundamental principles of motion, forces, energy, and heat transfer.
+Course: "Learning Social Etiquette through Film and TV", Type: "Social Science & Law", Introduction: This course uses film and TV examples to teach practical social etiquette and manners.
+Course: "Exploring Contemporary Taiwanese Metal Art (I)", Type: "Art & Design", Introduction: This course introduces the development and creative techniques of contemporary Taiwanese metal art.
+Course: "Sensation and Perception", Type: "Social Science & Law", Introduction: Explores how humans sense and interpret the world, covering biological, psychological, and legal aspects of perception.
+Course: "Brain Perception and Action: Systems Neuroscience", Type: "Life Sciences", Introduction: Explores how neural systems govern perception and behavior.
+Course: "Entrepreneurship 101: Who is Your Customer?", Type: Entrepreneurship, Introduction: This course teaches how to identify and understand your target customers for business success.
+Course: "Financial Analysis and Valuation", Type: "Economics & Management · Accounting", Introduction: Teaches methods to analyze financial statements and assess company value.
+Course: "AWS Cloud Service Deployment and Migration Course (Advanced Course)", Type: "Computer Science", Introduction: This advanced course covers deployment and migration strategies for AWS cloud services.
+Course: "Cloud Data Analysis - Real-time Stream Processing Implementation and Practice on AWS", Type: "Computer Science", Introduction: Learn to implement and practice real-time data stream processing using AWS cloud services.
+Course: "Ten Lectures on Creation: The Cradle of the Next Unicorn", Type: Entrepreneurship, Introduction: A course on startup fundamentals and strategies to build high-growth companies.
+Course: "Modern Life Aesthetics - The Art of Flower Arranging", Type: "Art & Design", Introduction: This course explores the principles and techniques of floral design for enhancing daily life aesthetics.
+Course: "2015 Tsinghua University Graduate Thesis Defense (Part 1)", Type: "Other Education", Introduction: A video recording of a graduate thesis defense session at Tsinghua University.
+Course: "Visual Language", Type: "Social Science · Law", Introduction: Explores how visual elements communicate meaning within legal and social contexts.
+Course: "English Scientific Paper Writing and Academic Presentation", Type: "Education", Introduction: Teaches writing and presenting research in English for academic purposes.
+Course: "Principles and Techniques of Molecular Biology", Type: "Life Sciences", Introduction: Covers fundamental concepts and laboratory methods in molecular biology.
+Course: "Qualitative Research Methods", Type: "Literature", Introduction: This course introduces qualitative research approaches and their application in literary studies.
+Course: "Introduction to Zhuangzi's Philosophy", Type: "Philosophy", Introduction: Explores the core ideas and wisdom of the ancient Daoist thinker Zhuangzi.
+Course: "Frontiers of Public Management", Type: "Public Management", Introduction: Explores cutting-edge theories and practices in modern public administration.
+Course: "Image Processing and Analysis", Type: "Art & Design", Introduction: This course covers fundamental techniques for digital image manipulation and visual data interpretation.
+Course: "Introduction to Psychology", Type: "Social Sciences & Law", Introduction: This course explores fundamental psychological concepts and principles.
+Course: "Legal Wisdom in Business: Commercial Law", Type: "Social Science · Law", Introduction: This course introduces fundamental commercial law principles and their practical application in business operations.
+Course: "How to Master the Xuetang Cloud Platform", Type: "Education", Introduction: A guide to effectively using the Xuetang online learning platform.
+Course: "History of Chinese Architecture", Type: "Architecture", Introduction: This course explores the evolution of Chinese architectural styles and structures across different dynasties.
+Course: "Product Development Design", Type: "Art & Design", Introduction: A course on the creative and technical process of designing new products.
+Course: "Marketing: A Course Everyone Needs", Type: "Public Management", Introduction: This course covers essential marketing principles for all.
+Course: "Principles and Applications of Photogrammetry", Type: "Engineering", Introduction: This course covers the fundamentals and practical uses of photogrammetry for mapping and 3D modeling.
+Course: "Testing System Integration Technology", Type: "Computer", Introduction: Covers techniques for integrating and testing complex computer systems.
+Course: "Civil Law and Life", Type: "Social Science · Law", Introduction: Explores how civil law principles apply to everyday life and personal rights.
+Course: "The Spatial Art of 'Dream of the Red Chamber'", Type: "Art & Design", Introduction: Explores spatial design and artistic expression within the classic Chinese novel.
+Course: "Comparative Constitutional Law", Type: "Social Science · Law", Introduction: A course examining and comparing constitutional systems and principles across different countries.
+Course: "Advanced Mathematics Practical Guide (Part 1)", Type: "Mathematics", Introduction: Covers core calculus concepts and problem-solving techniques for real-world applications.
+Course: "Traditional Chinese Art - Seal Carving, Calligraphy, Ink Painting Experience and Appreciation", Type: "Art & Design", Introduction: A hands-on course exploring the techniques and aesthetics of classic Chinese artistic practices.
+Course: "Mobile Internet Development", Type: "Computer", Introduction: "Learn to build apps for smartphones and tablets."
+Course: "AP Biology Preparation Part 2", Type: "Life Science", Introduction: Covers advanced topics like genetics, evolution, and ecology for the AP exam.
+Course: "Concise Organic Chemistry (Prerequisite Course)", Type: "Chemistry", Introduction: Covers fundamental concepts and reactions in organic chemistry.
+Course: "Investment Banking", Type: "Economics & Management · Accounting", Introduction: This course covers the core principles and practices of investment banking, including capital raising and mergers & acquisitions.
+Course: "Financial Markets and Financial Institutions", Type: "Economics & Management · Accounting", Introduction: This course explores the structure and functions of financial markets and institutions.
+Course: "Ancient Poetry Modern Reading", Type: "Literature", Introduction: Explore classical Chinese poetry through a contemporary lens.
+Course: "Industrial Organization Theory", Type: "Social Science & Law", Introduction: This course examines market structures, firm behavior, and regulatory policies within industries.
+Course: "Several Important Issues Concerning Socialism with Chinese Characteristics", Type: "Social Sciences & Law", Introduction: This course explores key theoretical and practical aspects of socialism with Chinese characteristics.
+Course: "University Physics 1", Type: "Physics", Introduction: Covers fundamental mechanics, thermodynamics, and wave phenomena.
+Course: "English Grammar and Writing", Type: "Foreign Language", Introduction: A course focusing on fundamental grammar rules and practical writing skills.
+Course: "Market Failure and Government Functions", Type: "Economics & Management · Accounting", Introduction: Explores market inefficiencies and the role of government intervention.
+Course: "Entrepreneurship Fundamentals", Type: "Entrepreneurship", Introduction: An introductory course covering basic concepts and skills for starting a business.
+Course: "Macroeconomics", Type: "Economics & Management · Accounting", Introduction: This course explores national economic performance, including topics like GDP, inflation, and monetary policy.
+Course: "University Chinese Literature - Appreciation of Pre-Qin to Tang Dynasty Literature", Type: "Literature", Introduction: Explores and analyzes classical Chinese literary works from the Pre-Qin era through the Tang Dynasty.
+Course: "University Chinese - Appreciation of Literature from the Northern Song Dynasty to Modern Times", Type: "Literature", Introduction: Explores and analyzes Chinese literary works from the Northern Song Dynasty to the modern era.
+Course: "Electrical Engineering", Type: "Electronics", Introduction: Covers fundamental electrical principles, circuits, and their applications.
+Course: "Electrical Fundamentals and Electronic Design", Type: "Electronic", Introduction: Covers basic electrical principles and introductory electronic circuit design.
+Course: "Algorithm Bootcamp (Special Topics)", Type: "Computer Science", Introduction: A focused course covering essential algorithms and data structures for problem-solving.
+Course: "Software as a Service (SaaS) - Part 2", Type: "Computer", Introduction: This course covers advanced SaaS concepts, including architecture, deployment, and management strategies.
+Course: "Introduction to Party Knowledge", Type: "Social Science · Law & History", Introduction: This course provides fundamental knowledge about the Party's history and theoretical principles.
+Course: "Circuits and Electronics", Type: "Electronics", Introduction: Covers fundamental circuit analysis and electronic components.
+Course: "Diagnosing Your Company", Type: "Entrepreneurship", Introduction: A course on identifying and solving key business challenges for startups.
+Course: "History of Chinese Architecture—Prehistoric to Song, Liao, and Jin Dynasties", Type: "Architecture", Introduction: Explores the evolution of Chinese architecture from prehistoric times through the Song, Liao, and Jin periods.
+Course: "Multivariate Statistical Analysis and R Language Modeling", Type: "Computer Science", Introduction: This course covers multivariate statistical methods and their implementation using R for data analysis and modeling.
+Course: "Engineering Graphics", Type: "Engineering", Introduction: "Teaches the principles and techniques for creating and interpreting technical drawings."
+Course: "AP Environmental Science Preparation Part Two", Type: "Environment & Earth", Introduction: Covers ecosystems, biodiversity, and pollution for the AP exam.
+Course: "Literature Management and Information Analysis", Type: "Computer Science", Introduction: A course on managing academic literature and analyzing information using computer tools.
+Course: "Economic Thinking and Supply-Demand Principles", Type: "Economics & Management · Accounting", Introduction: Introduces fundamental economic concepts and market mechanisms.
+Course: "English Writing Guidance - Polishing and Enhancement", Type: "Foreign Language", Introduction: This course focuses on refining and improving English writing skills.
+Course: "Embedded Systems Theory and Technology", Type: "Computer Science", Introduction: Covers the principles and applications of embedded systems.
+Course: "Engineering Mathematical Analysis (II)", Type: "Mathematics", Introduction: Advanced calculus topics for engineering applications.
+Course: "Antenna Principles", Type: "Physics", Introduction: This course covers the fundamental theories and design principles of antennas.
+Course: "Principles of Aircraft Propulsion Systems", Type: "Other", Introduction: Covers the fundamentals of aircraft propulsion, including engine types and performance analysis.
+Course: "Fundamentals of Immunology - Part I", Type: "Medical & Health Education", Introduction: Introduces basic immune system components and functions.
+Course: "Mechanical Vibration", Type: "Life Science", Introduction: Studies vibration principles and their applications in biological systems.
+Course: "Fundamentals of Financial Analysis", Type: "Economics & Management · Accounting", Introduction: This course covers the basic principles and methods of analyzing financial statements.
+Course: "AP Exam Prep Biology Part 3", Type: "Life Science", Introduction: Covers advanced topics like genetics, evolution, and ecology for the AP Biology exam.
+Course: "Introduction to Education", Type: "Education", Introduction: This course provides an overview of educational theories, principles, and practices.
+Course: "General Biology (Prerequisite Course)", Type: "Life Sciences", Introduction: Introduces fundamental biological concepts and principles.
+Course: "u.lab 0x: Awareness-Based Systems Change: Sensing and Co-Creating the Future", Type: "Computer Science", Introduction: Explores systems thinking and collaborative innovation to sense and shape emerging futures.
+Course: "University Chemistry (Preparatory Course)", Type: "Chemistry", Introduction: An introductory course covering fundamental chemical principles and concepts.
+Course: "Masonry Structures (English-taught)", Type: "Engineering", Introduction: Covers the design, analysis, and behavior of masonry structures.
+Course: "Configuration Design and Drawing", Type: "Engineering", Introduction: This course covers the fundamentals of engineering drawing and 3D modeling for design.
+Course: "Biomedical Laboratory Safety Knowledge", Type: "Life Science", Introduction: Covers essential safety protocols and hazard management for biomedical laboratory environments.
+Course: "u.lab 1x: Learning from the Future to Lead Systemic Change", Type: "Computer Science", Introduction: A course on systems thinking and innovation for leading transformative change.
+Course: "Regional Anatomy and Operative Surgery", Type: "Medicine·Health", Introduction: A course on human regional anatomy and fundamental surgical techniques.
+Course: "Multivariable Calculus and Multiple Integrals", Type: "Mathematics", Introduction: Covers functions of several variables, partial derivatives, and multiple integration techniques.
+Course: "University Physics (Mechanics)", Type: "Physics", Introduction: Covers fundamental concepts of motion, forces, and energy.
+Course: "Computer Culture Fundamentals", Type: "Computer", Introduction: Introduces basic computer concepts, operating systems, office software, and internet fundamentals.
+Course: "Floral Arrangement Art", Type: "Art & Design", Introduction: This course teaches the techniques and aesthetics of creating beautiful flower arrangements.
+Course: "Financial Statement Analysis", Type: "Economics & Management · Accounting", Introduction: This course teaches how to analyze and interpret financial statements to assess a company's performance and financial health.
+Course: "AWS Cloud Security - Data Encryption and Key Management", Type: "Computer Science", Introduction: This course covers data encryption techniques and key management strategies within the AWS cloud environment.
+Course: "Macroeconomic System and Accounting", Type: "Economics & Management · Accounting", Introduction: This course covers macroeconomic systems and national accounting methods.
+Course: "Understanding Marx", Type: "Philosophy History", Introduction: This course explores Marx's core ideas and their historical impact.
+Course: "Visual Communication Design Thinking and Methods", Type: "Life Science", Introduction: This course explores design principles and creative strategies for visual communication.
+Course: "Introduction to Film and Television Production", Type: "Computer Science", Introduction: A foundational course covering the basics of digital video production and editing techniques.
+Course: "International Marketing", Type: "Public Management", Introduction: This course covers global marketing strategies and management practices.
+Course: "AP Environmental Science Preparation Part 4", Type: "Environment & Earth", Introduction: Covers ecosystems, biodiversity, and pollution for AP exam preparation.
+Course: "The World of Wisdom and Integrity: Introduction to Traditional Chinese Culture", Type: "Literature", Introduction: Explores core philosophies, arts, and values of traditional Chinese culture.
+Course: "Five Minutes to Master Workplace Etiquette", Type: "Social Sciences & Law", Introduction: A quick guide to essential professional manners and conduct.
+Course: "Advanced Secrets of Ethnic Vocal Music - Shi Chunxuanzi's Teaching Demonstration Class", Type: "Art & Design", Introduction: A demonstration class teaching advanced techniques in ethnic vocal music performance.
+Course: "Unveiling the Mysteries of the Subconscious", Type: "Social Sciences & Law", Introduction: Explores the subconscious mind's influence on behavior and decision-making.
+Course: "Serverless Architecture Series - Lambda + API Gateway", Type: "Computer Science", Introduction: "Learn to build and deploy serverless applications using AWS Lambda and API Gateway."
+Course: "Was Alexander the Great Truly Great?", Type: "Literature & History", Introduction: Examines Alexander's legacy through historical and literary sources.
+Course: "AP Exam Prep Biology Part 5", Type: "Life Science", Introduction: Focuses on advanced biological concepts for AP exam preparation.
+Course: "Advanced Mathematics Exercise Class - Unary Function Differential Calculus and Indefinite Integration", Type: "Mathematics", Introduction: This course covers exercises on differentiation and indefinite integration of single-variable functions.
+Course: "Socialist Democracy and Rule of Law", Type: "Social Sciences · Law", Introduction: Explores the principles and practices of democracy and legal systems in a socialist context.
+Course: "Self-awareness and Emotion Management", Type: "Social Sciences & Law", Introduction: This course explores self-understanding and techniques for effectively managing emotions.
+Course: "Disaster Risk Management", Type: "Public Administration", Introduction: This course covers strategies and policies for mitigating and responding to disaster risks.
+Course: "EU Economy", Type: "Social Sciences & Law", Introduction: This course explores the economic structure, policies, and legal framework of the European Union.
+Course: "Introduction to Clothing", Type: "Other", Introduction: An overview of clothing basics, including materials, design, and cultural significance.
+Course: "Imperial Examination and Chinese Culture", Type: "Literature", Introduction: Explores the historical imperial exam system and its profound influence on Chinese culture and society.
+Course: "Engineering Professional Ethics", Type: "Engineering", Introduction: Covers ethical principles and responsibilities in engineering practice.
+Course: "Solid Waste Disposal and Resource Recovery", Type: "Environment & Earth", Introduction: Covers waste treatment methods and recycling technologies.
+Course: "Elementary Management Accounting", Type: "Economics & Management · Accounting", Introduction: Covers basic concepts and methods for internal financial decision-making and control.
+Course: "Intermediate Management Accounting", Type: "Economics & Management · Accounting", Introduction: Focuses on internal decision-making, planning, and control using accounting information.
+Course: "College English Extension Module (Intercultural Communication)", Type: "Foreign Language", Introduction: Enhances English skills for effective cross-cultural communication.
+Course: "Food and Health", Type: "Medicine & Health", Introduction: Explores the relationship between nutrition and well-being.
+Course: "Religion and Hip-Hop Culture", Type: "Art & Design", Introduction: Explores the intersection of religious themes and expressions within hip-hop music and culture.
+Course: "Entrepreneurial Leadership: NASA's 4D Excellence Team Star Course", Type: Entrepreneurship, Introduction: Learn NASA's 4D team system to enhance leadership and build high-performance teams.
+Course: "Multinational Business and Management", Type: "Public Administration", Introduction: This course covers strategies and operations for managing businesses across international borders.
+Course: "Emergency Nursing", Type: "Nursing", Introduction: Covers principles and techniques for providing immediate care in critical situations.
+Course: "The Way to Huawei's Success: Best Practices in Human Resource Management", Type: "Entrepreneurship", Introduction: Explores Huawei's HR strategies and management practices that contributed to its success.
+Course: "Laser and Its Applications", Type: "Physics", Introduction: Introduces laser principles and diverse applications in technology and medicine.
+Course: "Liberal Arts Physics - Physics in Daily Life", Type: "Physics", Introduction: Explores physical principles through everyday phenomena, making physics accessible and relevant.
+Course: "Cell Biology: The Mysteries of the Cellular Society", Type: "Life Sciences", Introduction: Explores the structure, function, and social interactions of cells.
+Course: "Cultivating and Practicing Core Socialist Values", Type: "Social Science & Law, Philosophy", Introduction: This course explores the theory and practice of China's core socialist values.
+Course: "History of Chinese Architecture: Yuan, Ming, Qing Dynasties and Vernacular Dwellings", Type: "Architecture", Introduction: Explores architectural evolution and residential styles from the 13th to early 20th centuries.
+Course: "Soil Mechanics", Type: "Engineering", Introduction: This course covers the fundamental properties and mechanical behavior of soils for engineering applications.
+Course: "English Listening and Speaking at the Center of the Universe", Type: "Foreign Language", Introduction: A course focusing on improving English listening and speaking skills through engaging topics.
+Course: "Research Ethics and Academic Norms", Type: "Education", Introduction: This course covers principles of ethical research and standard academic practices.
+Course: "Evidence-Based Medicine", Type: "Medicine & Health", Introduction: This course teaches how to integrate the best research evidence with clinical expertise and patient values for medical decision-making.
+Course: "Introduction to Human Evolution", Type: "Social Science & Law", Introduction: This course explores the biological and cultural development of humans.
+Course: "Mechanics and Modern Life - Opening a Scientific Life", Type: "Physics", Introduction: Explores how mechanical principles apply to everyday life and technology.
+Course: "The Magical Journey of Chinese Herbal Medicine and Life", Type: "Medicine & Health", Introduction: Explores the application and cultural significance of Chinese herbal medicine in daily life.
+Course: "Innovation and Entrepreneurship Psychology", Type: "Entrepreneurship", Introduction: Explores the psychological principles and mindset essential for successful innovation and entrepreneurial ventures.
+Course: "Scientific Computing and Mathematical Modeling", Type: "Computer", Introduction: This course covers numerical methods and modeling techniques for solving scientific and engineering problems.
+Course: "Computer Applications", Type: "Computer", Introduction: Covers fundamental software and hardware usage for practical tasks.
+Course: "Disaster Information Communication", Type: "Public Management", Introduction: This course explores the principles and practices of information dissemination during public emergencies.
+Course: "Information Literacy Academic Research (Literature Retrieval and Utilization for Chemical Engineering)", Type: "Education", Introduction: This course teaches chemical engineering students essential skills for academic research, focusing on effective literature search and utilization methods.
+Course: "English Writing Guidance - Scientific Writing", Type: "Foreign Language", Introduction: This course teaches the principles and techniques of writing scientific papers and reports in English.
+Course: "Advanced Mathematics Practical Guide (Part 2)", Type: "Mathematics", Introduction: A practical guide covering advanced calculus topics and applications.
+Course: "Entrepreneur Psychology: The Power of a Positive Mindset", Type: Entrepreneurship, Introduction: Explores how cultivating a positive mindset enhances resilience and decision-making for entrepreneurs.
+Course: "Surgical Nursing (including Skin Care)", Type: "Nursing Science", Introduction: Covers nursing principles and practices for surgical and dermatological patients.
+Course: "Foundations of Computer Graphics", Type: "Computer Science", Introduction: Covers basic principles and techniques for creating and manipulating digital images.
+Course: "Entrepreneurial Human Resource Management: How to Recruit the Right Talent", Type: "Entrepreneurship", Introduction: This course covers strategies for startups to effectively identify and hire suitable candidates.
+Course: "Analysis of China's Rise: Economic, Historical, and International Perspectives", Type: Social Science/Law, History, Other, Introduction: Examines China's modern development through interdisciplinary lenses.
+Course: "Internal Medicine Nursing (Specialized)", Type: "Nursing", Introduction: Focuses on nursing principles and practices for adult patients with internal medical conditions.
+Course: "Health Assessment", Type: "Medicine & Health", Introduction: A course on evaluating health status through history-taking and physical examination.
+Course: "Electrical and Electronics", Type: "Electronics", Introduction: Covers basic electrical circuits and electronic components.
+Course: "International Trade Practice English", Type: "Foreign Language", Introduction: This course teaches English for international trade, covering contracts, shipping, and payments.
+Course: "Introduction to Earth Science", Type: "Social Science & Law", Introduction: An overview of Earth's systems, covering geology, atmosphere, and environmental interactions.
+Course: "Marketing", Type: "Public Management", Introduction: This course covers fundamental marketing principles and strategies.
+Course: "Women's Health and Rights", Type: "Medical & Health Education", Introduction: Covers women's health issues and the protection of their legal rights.
+Course: "Graduate English I", Type: "Foreign Language", Introduction: A foundational English course for graduate students, focusing on academic reading, writing, and communication skills.
+Course: "Managerial Economics", Type: "Public Management", Introduction: Applies economic theory to managerial decision-making in public organizations.
+Course: "Data, Models and Decisions", Type: "Mathematics", Introduction: A course on applying mathematical models and data analysis for decision-making.
+Course: "International Business English", Type: "Foreign Language", Introduction: A course focusing on English for business communication in global contexts.
+Course: "MOOCs Production and Operation", Type: "Education", Introduction: Covers the creation and management of massive open online courses.
+Course: "Target Valuation and Value Disagreement Resolution", Type: "Social Science · Law", Introduction: Covers valuation methods and legal frameworks for resolving valuation disputes.
+Course: "University Physics (Preparatory Course) - Electromagnetism", Type: "Physics", Introduction: Covers fundamental concepts of electric and magnetic fields, circuits, and electromagnetic waves.
+Course: "University Computer Science Fundamentals for Science Majors", Type: "Computer Science", Introduction: This course covers essential computer science principles and programming basics for science students.
+Course: "Calculus (I)", Type: "Mathematics", Introduction: A foundational course covering limits, derivatives, and integrals.
+Course: "Community Nursing", Type: "Nursing", Introduction: Focuses on providing healthcare services and promoting wellness within community settings.
+Course: "Obstetrics and Gynecology Nursing", Type: "Nursing", Introduction: Focuses on nursing care for women during pregnancy, childbirth, and postpartum.
+Course: "The Way of Academia", Type: "Education", Introduction: A course exploring the principles and practices of scholarly research and academic writing.
+Course: "Film and Television Production (1)", Type: "Computer", Introduction: An introductory course covering basic filmmaking techniques and digital production tools.
+Course: "University Computer Fundamentals for Liberal Arts", Type: "Computer", Introduction: Covers essential computer concepts and basic software skills for liberal arts students.
+Course: "Graduate English II", Type: "Foreign Language", Introduction: Advanced English for academic research and communication.
+Course: "Introduction to Sociology", Type: "Social Sciences & Law", Introduction: Explores fundamental concepts and theories of society, culture, and human behavior.
+Course: "Artistic Aesthetics", Type: "Art & Design", Introduction: Explores the principles of beauty and expression in art.
+Course: "Wisdom of Taoism", Type: "Social Science & Law, Philosophy", Introduction: Explores core Taoist concepts like Wu Wei and harmony with nature.
+Course: "Molecular Biology", Type: "Life Science", Introduction: This course explores the structure and function of biological macromolecules like DNA, RNA, and proteins.
+Course: "Modern Etiquette", Type: "Social Sciences & Law", Introduction: A course on contemporary social norms and professional conduct.
+Course: "Civil Engineering Materials", Type: "Engineering", Introduction: Covers properties, testing, and applications of construction materials like concrete and steel.
+Course: "Academic Literacy English", Type: "Foreign Language", Introduction: Develops English skills for academic reading, writing, and communication.
+Course: "College English", Type: "Foreign Language", Introduction: A comprehensive course focusing on English language skills including reading, writing, listening, and speaking.
+Course: "Nutrition and Health Part 1: Macronutrients and Overnutrition", Type: "Public Administration", Introduction: Explores essential nutrients and health impacts of excessive intake.
+Course: "Maker Cultivation", Type: "Entrepreneurship", Introduction: A course fostering innovation and hands-on skills for aspiring entrepreneurs.
+Course: "Microeconomics", Type: "Economics & Management · Accounting", Introduction: Studies individual and firm decision-making, market structures, and resource allocation.
+Course: "Introduction to Business: 10 Lessons to Enter the Business World", Type: "Public Management", Introduction: This course provides a foundational overview of business concepts and practices.
+Course: "What to Learn from JD.com: Ten Inspirations for Creating JD.com", Type: Entrepreneurship, Introduction: This course explores JD.com's success story, offering ten key insights for entrepreneurs.
+Course: "Marketing Practice", Type: "Public Management", Introduction: Covers fundamental marketing strategies and real-world applications.
+Course: "Sun Tzu's Art of War and Business Management", Type: "Public Management", Introduction: Applying ancient military strategies to modern business operations and management.
+Course: "Internal Medicine Nursing (Undergraduate)", Type: "Nursing Science", Introduction: Covers nursing principles and practices for adult patients with internal medical conditions.
+Course: "Obstetrics and Gynecology Nursing (Undergraduate)", Type: "Nursing", Introduction: Covers nursing care for women during pregnancy, childbirth, and gynecological conditions.
+Course: "Geriatric Nursing", Type: "Nursing", Introduction: Focuses on the specialized care and health management of the elderly population.
+Course: "Digital Marketing: Towards Intelligent Brands", Type: "Social Sciences & Law", Introduction: This course explores digital marketing strategies and how brands utilize data and technology for intelligent growth.
+Course: "Nursing Research", Type: "Nursing Science", Introduction: This course covers the fundamentals of research methods and evidence-based practice in nursing.
+Course: "Nursing Management", Type: "Nursing Science", Introduction: This course covers principles and practices for effective leadership and administration in nursing settings.
+Course: "Pediatric Nursing", Type: "Nursing", Introduction: Focuses on the care of infants, children, and adolescents.
+Course: "Clinical Nursing Operation Techniques", Type: "Nursing", Introduction: Covers essential clinical nursing procedures and practical skills for patient care.
+Course: "Comprehensive Academic English", Type: "Foreign Language", Introduction: A course focusing on English skills for academic purposes, including reading, writing, and presentation.
+Course: "Things About Housing Provident Fund", Type: "Economics & Management · Accounting", Introduction: A brief guide explaining the basics and management of the housing provident fund system.
+Course: "New Economic Normal and Industrial Transformation", Type: "Public Administration", Introduction: Explores economic shifts and strategies for industrial upgrading.
+Course: "Due Diligence and Risk Control", Type: "Public Management", Introduction: This course covers the principles and methods for conducting due diligence and implementing risk control strategies in public administration.
+Course: "Communication and Interaction", Type: "Social Science & Law, Medicine & Health", Introduction: This course explores communication skills and their applications in legal and healthcare contexts.
+Course: "Financial Statements and Strategic Management", Type: "Economics & Management · Accounting", Introduction: This course explores the analysis of financial statements for strategic decision-making.
+Course: "Socialist Economic Theory and Practice", Type: "Social Science & Law", Introduction: Explores the theories and practical applications of socialist economics.
+Course: "Management", Type: "Public Administration", Introduction: This course covers fundamental principles and practices of organizational management within the public sector.
+Course: "Accounting", Type: "Economics & Management · Accounting", Introduction: An introductory course covering fundamental accounting principles, financial statements, and bookkeeping practices.
+Course: "Construction Engineering Safety Management", Type: "Construction", Introduction: Covers safety regulations and hazard prevention in construction projects.
+Course: "Bridge Engineering (Part 1)", Type: "Engineering", Introduction: Covers fundamental principles, design methods, and construction techniques for bridges.
+Course: "Bridge Structure Design and Analysis", Type: "Engineering", Introduction: This course covers the principles and methods for designing and analyzing various bridge structures.
+Course: "Municipal Engineering Measurement and Valuation", Type: "Engineering", Introduction: Covers quantity calculation and cost estimation for municipal infrastructure projects.
+Course: "Highway Engineering Measurement and Valuation", Type: "Engineering", Introduction: Covers quantity calculation and cost estimation methods for highway construction projects.
+Course: "Fund Custody", Type: "Public Management", Introduction: This course covers the principles and practices of managing entrusted funds in public administration.
+Course: "Oral Anatomy and Physiology", Type: "Medicine & Health, Other", Introduction: "Studies the structure and function of oral and maxillofacial regions."
+Course: "Pattern Design", Type: "Art & Design", Introduction: This course explores the creation and application of decorative patterns in various design contexts.
+Course: "Spanish is Easy", Type: "Foreign Language", Introduction: A beginner-friendly course introducing basic Spanish vocabulary and grammar.
+Course: "Intermediary Business", Type: "Architecture", Introduction: This course covers the principles and practices of intermediary services within the construction industry.
+Course: "Business Etiquette in Real Estate Finance Industry", Type: "Economics & Management · Accounting", Introduction: Covers professional conduct and communication protocols for the real estate finance sector.
+Course: "Property Rights Business", Type: "Social Science · Law", Introduction: Covers legal practices and management related to property rights.
+Course: "Entrepreneurship Guidance and Face-to-Face with Renowned Entrepreneurs", Type: "Entrepreneurship", Introduction: Learn entrepreneurial basics and gain insights from successful founders.
+Course: "Highway Engineering Cost Management", Type: "Engineering", Introduction: This course covers cost estimation, budgeting, and control for highway construction projects.
+Course: "Mergers, Acquisitions, and Corporate Control", Type: "Public Administration", Introduction: Covers strategies and regulations in corporate restructuring and control.
+Course: "Competition and Integration in Mergers and Acquisitions", Type: "Social Science · Law", Introduction: This course explores competitive strategies and post-merger integration in M&A.
+Course: "Rules in Mergers and Acquisitions: Governance, Law, Regulations", Type: "Social Science · Law", Introduction: This course explores governance, legal frameworks, and regulations essential for mergers and acquisitions.
+Course: "Medical Literature Retrieval", Type: "Medicine & Health", Introduction: Teaches methods to efficiently search and utilize medical academic literature.
+Course: "Clinical Epidemiology", Type: "Medicine & Health", Introduction: A course on applying epidemiological principles to clinical research and practice.
+Course: "English Writing Guidance I", Type: "Foreign Language", Introduction: A foundational course focusing on basic English writing principles and practice.

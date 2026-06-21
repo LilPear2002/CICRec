@@ -5,7 +5,7 @@ model:
   # Transformer backbone parameters
   embedding_size: 64
   max_seq_len: 50
-  n_layers: 2
+  n_layers: 1
   n_heads: 2
   dropout_rate: 0.1
   inner_size: 256
@@ -14,13 +14,14 @@ model:
   semantic_k: 10
   semantic_hid: 32
   dropout_neighbor: 0.1
+  short_term_window: 4
 
   # Contrastive learning parameters
   cl_weight: 0.1
   tau: 1.0
 
 train:
-  epoch: 300
+  epoch: 100
   batch_size: 512
   save_model: false
   log_loss: false
@@ -31,7 +32,7 @@ train:
 
 test:
   metrics: [hr, ndcg, mrr]
-  k: [5, 10, 20]
+  k: [5, 10]
   batch_size: 512
 
 data:

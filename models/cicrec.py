@@ -30,6 +30,7 @@ class CICRec(BaseModel):
         self.semantic_k = configs['model'].get('semantic_k', 10)
         self.semantic_hid = configs['model'].get('semantic_hid', 32)
         self.dropout_neighbor = configs['model'].get('dropout_neighbor', 0.1)
+        self.short_term_window = configs['model'].get('short_term_window', 3)
 
         # Contrastive learning config
         self.batch_size = configs['train']['batch_size']
@@ -153,41 +154,43 @@ class CICRec(BaseModel):
         return long_term
 
     def short_term_encoder(self, batch_seqs):
-        """Short-term intent encoder with semantic neighbor enhancement."""
-        batch_size, seq_len = batch_seqs.shape
-        device = batch_seqs.device
+        """Short-term intent encoder over the recent interaction window."""
+        window_size = min(self.short_term_window, batch_seqs.size(1))
+        recent_items = batch_seqs[:, -window_size:]  # [B, R]
+        recent_valid = (recent_items > 0) & (recent_items != self.mask_token)
+        recent_mask = recent_valid.float().unsqueeze(-1)  # [B, R, 1]
+        recent_items = recent_items.masked_fill(~recent_valid, 0)
 
-        lengths = (batch_seqs > 0).sum(dim=1).clamp(min=1) - 1
-        batch_indices = torch.arange(batch_size, device=device)
-        last_items = batch_seqs[batch_indices, lengths]
-
-        last_item_emb = self.get_item_emb(last_items)  # [B, D]
+        recent_item_emb = self.get_item_emb(recent_items)  # [B, R, D]
 
         if not self.use_semantic:
-            return last_item_emb
+            short_emb = (recent_item_emb * recent_mask).sum(dim=1)
+            short_emb = short_emb / recent_mask.sum(dim=1).clamp(min=1.0)
+            return short_emb
 
-        # ColaKG-style neighbor enhancement
-        neighbor_idx = self.neighbor_indices[last_items]  # [B, K]
-        neighbor_emb = self.get_item_emb(neighbor_idx)  # [B, K, D]
+        # ColaKG-style neighbor enhancement for each recent item.
+        neighbor_idx = self.neighbor_indices[recent_items]  # [B, R, K]
+        neighbor_emb = self.get_item_emb(neighbor_idx)  # [B, R, K, D]
 
-        last_item_sem = self.easyrec_embeddings[last_items]  # [B, 1024]
-        neighbor_sem = self.easyrec_embeddings[neighbor_idx]  # [B, K, 1024]
+        recent_item_sem = self.easyrec_embeddings[recent_items]  # [B, R, 1024]
+        neighbor_sem = self.easyrec_embeddings[neighbor_idx]  # [B, R, K, 1024]
 
-        Wh_i = torch.matmul(last_item_sem, self.W_neighbor)  # [B, semantic_hid]
-        Wh_j = torch.matmul(neighbor_sem, self.W_neighbor)  # [B, K, semantic_hid]
+        Wh_i = torch.matmul(recent_item_sem, self.W_neighbor)  # [B, R, semantic_hid]
+        Wh_j = torch.matmul(neighbor_sem, self.W_neighbor)  # [B, R, K, semantic_hid]
 
-        Wh_i_expanded = Wh_i.unsqueeze(1).expand(-1, self.semantic_k, -1)  # [B, K, semantic_hid]
-        W_concat = torch.cat([Wh_i_expanded, Wh_j], dim=-1)  # [B, K, 2*semantic_hid]
+        Wh_i_expanded = Wh_i.unsqueeze(2).expand(-1, -1, self.semantic_k, -1)
+        W_concat = torch.cat([Wh_i_expanded, Wh_j], dim=-1)  # [B, R, K, 2*semantic_hid]
 
-        attention = torch.matmul(W_concat, self.a_neighbor).squeeze(-1)  # [B, K]
+        attention = torch.matmul(W_concat, self.a_neighbor).squeeze(-1)  # [B, R, K]
         attention = self.leakyrelu(attention)
-        attention = F.softmax(attention, dim=1)
+        attention = F.softmax(attention, dim=-1)
         attention = F.dropout(attention, self.dropout_neighbor, training=self.training)
 
-        attention = attention.unsqueeze(-1)  # [B, K, 1]
-        neighbor_agg = torch.sum(attention * neighbor_emb, dim=1)  # [B, D]
+        neighbor_agg = torch.sum(attention.unsqueeze(-1) * neighbor_emb, dim=2)  # [B, R, D]
+        enhanced_recent_emb = F.elu((recent_item_emb + neighbor_agg) / 2)
 
-        short_emb = F.elu((last_item_emb + neighbor_agg) / 2)
+        short_emb = (enhanced_recent_emb * recent_mask).sum(dim=1)
+        short_emb = short_emb / recent_mask.sum(dim=1).clamp(min=1.0)
         return short_emb
 
     def forward(self, batch_seqs):
